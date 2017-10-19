@@ -1,0 +1,1424 @@
+<SkillCfg_RobotAI>
+  <info un32ID="1">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>0</n32ExNodeID>
+    <n32Value>
+    </n32Value>
+    <PostScript>AI</PostScript>
+  </info>
+  <info un32ID="1001">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="1002">
+    <n32FunctionID>80001</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>1001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>战斗倒计时中</PostScript>
+  </info>
+  <info un32ID="1004">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>1001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待倒计时结束</PostScript>
+  </info>
+  <info un32ID="2000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>购买装备</PostScript>
+  </info>
+  <info un32ID="2001">
+    <n32FunctionID>80003</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>2000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>有未购买的推荐装备</PostScript>
+  </info>
+  <info un32ID="2002">
+    <n32FunctionID>80004</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>2000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>CP值达到装备购买要求</PostScript>
+  </info>
+  <info un32ID="2003">
+    <n32FunctionID>90002</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>2000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>购买表格配置的推荐装备</PostScript>
+  </info>
+  <info un32ID="3000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>各种等待</PostScript>
+  </info>
+  <info un32ID="3028">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>回血等待</PostScript>
+  </info>
+  <info un32ID="3035">
+    <n32FunctionID>80012</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3028</n32ExNodeID>
+    <n32Value>100</n32Value>
+    <PostScript>自身血量低于(?)</PostScript>
+  </info>
+  <info un32ID="3036">
+    <n32FunctionID>80039</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3028</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>处于回血点范围内</PostScript>
+  </info>
+  <info un32ID="3037">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3028</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="3001">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>眩晕等待</PostScript>
+  </info>
+  <info un32ID="3002">
+    <n32FunctionID>80005</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>处于失控状态</PostScript>
+  </info>
+  <info un32ID="3003">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="3004">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>死亡等待</PostScript>
+  </info>
+  <info un32ID="3005">
+    <n32FunctionID>80006</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>处于死亡状态</PostScript>
+  </info>
+  <info un32ID="3006">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="3007">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>寻路等待</PostScript>
+  </info>
+  <info un32ID="3008">
+    <n32FunctionID>80007</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3007</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>请求移动中</PostScript>
+  </info>
+  <info un32ID="3009">
+    <n32FunctionID>80008</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3007</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>被束缚</PostScript>
+  </info>
+  <info un32ID="3010">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3007</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="3011">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>攻击等待</PostScript>
+  </info>
+  <info un32ID="3012">
+    <n32FunctionID>80009</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3011</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>正在攻击中</PostScript>
+  </info>
+  <info un32ID="3013">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3011</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="3014">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>回城等待</PostScript>
+  </info>
+  <info un32ID="3015">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>3014</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>正在读条回城</PostScript>
+  </info>
+  <info un32ID="3026">
+    <n32FunctionID>80010</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3015</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>正在读条回城</PostScript>
+  </info>
+  <info un32ID="3021">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3015</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>读条打断</PostScript>
+  </info>
+  <info un32ID="3023">
+    <n32FunctionID>80013</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3021</n32ExNodeID>
+    <n32Value>2,1,5</n32Value>
+    <PostScript>(？)秒内受到来自(?)(敌人)的伤害超过自身生命值(?)%</PostScript>
+  </info>
+  <info un32ID="3024">
+    <n32FunctionID>90005</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3021</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>执行(?)(逃跑)寻路</PostScript>
+  </info>
+  <info un32ID="3022">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3015</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="3016">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3022</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="3017">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>附身等待</PostScript>
+  </info>
+  <info un32ID="3018">
+    <n32FunctionID>80033</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3017</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>正在读条附身</PostScript>
+  </info>
+  <info un32ID="3019">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3017</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="3020">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>技能等待</PostScript>
+  </info>
+  <info un32ID="3025">
+    <n32FunctionID>80038</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3020</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>正在使用技能</PostScript>
+  </info>
+  <info un32ID="3027">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3020</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="4000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>自卫</PostScript>
+  </info>
+  <info un32ID="4041">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>4000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>退塔</PostScript>
+  </info>
+  <info un32ID="4054">
+    <n32FunctionID>80013</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4041</n32ExNodeID>
+    <n32Value>2,4,5</n32Value>
+    <PostScript>(？)秒内受到来自(?)(1.敌人；2.小兵；3.英雄；4.箭塔；)的伤害超过自身生命值(?)%</PostScript>
+  </info>
+  <info un32ID="4048">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>4041</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>逃跑</PostScript>
+  </info>
+  <info un32ID="4049">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>4048</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>逃跑等待</PostScript>
+  </info>
+  <info un32ID="4050">
+    <n32FunctionID>80007</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4049</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>请求移动中</PostScript>
+  </info>
+  <info un32ID="4051">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4049</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="4053">
+    <n32FunctionID>90005</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4048</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>执行(?)(逃跑)寻路</PostScript>
+  </info>
+  <info un32ID="4004">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>4000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>使用自卫技能</PostScript>
+  </info>
+  <info un32ID="4003">
+    <n32FunctionID>80013</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4004</n32ExNodeID>
+    <n32Value>2,3,5</n32Value>
+    <PostScript>(？)秒内受到来自(?)(敌人)的伤害超过自身生命值(?)%</PostScript>
+  </info>
+  <info un32ID="6022">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4004</n32ExNodeID>
+    <n32Value>20,2</n32Value>
+    <PostScript>半径(?)米内有敌方英雄</PostScript>
+  </info>
+  <info un32ID="4006">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>4004</n32ExNodeID>
+    <n32Value>1</n32Value>
+    <PostScript>增益技能</PostScript>
+  </info>
+  <info un32ID="4007">
+    <n32FunctionID>80034</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>把技能准备好</PostScript>
+  </info>
+  <info un32ID="4008">
+    <n32FunctionID>80015</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>技能未在冷却中</PostScript>
+  </info>
+  <info un32ID="4009">
+    <n32FunctionID>80016</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>技能满足消耗</PostScript>
+  </info>
+  <info un32ID="4010">
+    <n32FunctionID>80017</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>自身未被沉默</PostScript>
+  </info>
+  <info un32ID="4037">
+    <n32FunctionID>80041</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4006</n32ExNodeID>
+    <n32Value>1</n32Value>
+    <PostScript>技能属于(?)（1.增益技能；2.伤害技能；3.控制技能；4.位移技能；）</PostScript>
+  </info>
+  <info un32ID="4011">
+    <n32FunctionID>90003</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4006</n32ExNodeID>
+    <n32Value>1</n32Value>
+    <PostScript>对(?)(自己)释放技能</PostScript>
+  </info>
+  <info un32ID="4012">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>4004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>伤害技能</PostScript>
+  </info>
+  <info un32ID="4013">
+    <n32FunctionID>80034</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>把技能准备好</PostScript>
+  </info>
+  <info un32ID="4014">
+    <n32FunctionID>80015</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>技能未在冷却中</PostScript>
+  </info>
+  <info un32ID="4015">
+    <n32FunctionID>80016</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>技能满足消耗</PostScript>
+  </info>
+  <info un32ID="4016">
+    <n32FunctionID>80017</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>自身未被沉默</PostScript>
+  </info>
+  <info un32ID="4017">
+    <n32FunctionID>80018</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4012</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>目标在(?)(技能)释放范围内</PostScript>
+  </info>
+  <info un32ID="4039">
+    <n32FunctionID>80041</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4012</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>技能属于(?)（1.增益技能；2.伤害技能；3.控制技能；4.位移技能；）</PostScript>
+  </info>
+  <info un32ID="4018">
+    <n32FunctionID>90003</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4012</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>对(?)(敌方)释放技能</PostScript>
+  </info>
+  <info un32ID="4019">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>4004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>无目标技能</PostScript>
+  </info>
+  <info un32ID="4020">
+    <n32FunctionID>80034</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4019</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>把技能准备好</PostScript>
+  </info>
+  <info un32ID="4021">
+    <n32FunctionID>80015</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4019</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>技能未在冷却中</PostScript>
+  </info>
+  <info un32ID="4022">
+    <n32FunctionID>80016</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4019</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>技能满足消耗</PostScript>
+  </info>
+  <info un32ID="4023">
+    <n32FunctionID>80017</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4019</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>自身未被沉默</PostScript>
+  </info>
+  <info un32ID="4024">
+    <n32FunctionID>90003</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4019</n32ExNodeID>
+    <n32Value>4</n32Value>
+    <PostScript>对(?)(无目标)释放技能</PostScript>
+  </info>
+  <info un32ID="4025">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>4000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>撤退</PostScript>
+  </info>
+  <info un32ID="4040">
+    <n32FunctionID>80012</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4025</n32ExNodeID>
+    <n32Value>30</n32Value>
+    <PostScript>自身血量低于(?)</PostScript>
+  </info>
+  <info un32ID="4026">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>4025</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>回城</PostScript>
+  </info>
+  <info un32ID="4035">
+    <n32FunctionID>80040</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4026</n32ExNodeID>
+    <n32Value>5,1</n32Value>
+    <PostScript>(？)秒内未受到来自(?)(敌人)的伤害</PostScript>
+  </info>
+  <info un32ID="4027">
+    <n32FunctionID>80019</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4026</n32ExNodeID>
+    <n32Value>30</n32Value>
+    <PostScript>(?)米范围内无敌方英雄</PostScript>
+  </info>
+  <info un32ID="4028">
+    <n32FunctionID>80017</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4026</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>自身未被沉默</PostScript>
+  </info>
+  <info un32ID="4029">
+    <n32FunctionID>90004</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4026</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>执行回城</PostScript>
+  </info>
+  <info un32ID="4030">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>4025</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>逃跑</PostScript>
+  </info>
+  <info un32ID="4032">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>4030</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>逃跑等待</PostScript>
+  </info>
+  <info un32ID="4033">
+    <n32FunctionID>80007</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4032</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>请求移动中</PostScript>
+  </info>
+  <info un32ID="4034">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4032</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="4031">
+    <n32FunctionID>90005</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4030</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>执行(?)(逃跑)寻路</PostScript>
+  </info>
+  <info un32ID="5000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>支援</PostScript>
+  </info>
+  <info un32ID="5001">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>5000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>防守支援</PostScript>
+  </info>
+  <info un32ID="5002">
+    <n32FunctionID>80020</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>20</n32Value>
+    <PostScript>半径(?)米内我方英雄受到攻击</PostScript>
+  </info>
+  <info un32ID="5003">
+    <n32FunctionID>80034</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>把技能准备好</PostScript>
+  </info>
+  <info un32ID="5004">
+    <n32FunctionID>80015</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>技能未在冷却中</PostScript>
+  </info>
+  <info un32ID="5005">
+    <n32FunctionID>80016</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>技能满足消耗</PostScript>
+  </info>
+  <info un32ID="5006">
+    <n32FunctionID>80017</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>自身未被沉默</PostScript>
+  </info>
+  <info un32ID="5007">
+    <n32FunctionID>80018</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>目标在(?)(技能)释放范围内</PostScript>
+  </info>
+  <info un32ID="5008">
+    <n32FunctionID>80014</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>4</n32Value>
+    <PostScript>技能可以对(?)(友方)释放</PostScript>
+  </info>
+  <info un32ID="5009">
+    <n32FunctionID>90003</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>3</n32Value>
+    <PostScript>对(?)(友方)释放技能</PostScript>
+  </info>
+  <info un32ID="5010">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>5000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>进攻支援</PostScript>
+  </info>
+  <info un32ID="5011">
+    <n32FunctionID>80021</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5010</n32ExNodeID>
+    <n32Value>20</n32Value>
+    <PostScript>半径(?)米内有攻击友方英雄的敌方英雄</PostScript>
+  </info>
+  <info un32ID="5012">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>5010</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>使用进攻技能支援</PostScript>
+  </info>
+  <info un32ID="5013">
+    <n32FunctionID>80034</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>把技能准备好</PostScript>
+  </info>
+  <info un32ID="5014">
+    <n32FunctionID>80015</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>技能未在冷却中</PostScript>
+  </info>
+  <info un32ID="5015">
+    <n32FunctionID>80016</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>技能满足消耗</PostScript>
+  </info>
+  <info un32ID="5016">
+    <n32FunctionID>80017</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>自身未被沉默</PostScript>
+  </info>
+  <info un32ID="5017">
+    <n32FunctionID>80018</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5012</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>目标在(?)(技能)释放范围内</PostScript>
+  </info>
+  <info un32ID="5018">
+    <n32FunctionID>80014</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5012</n32ExNodeID>
+    <n32Value>3</n32Value>
+    <PostScript>技能可以对(?)(敌人)释放</PostScript>
+  </info>
+  <info un32ID="5019">
+    <n32FunctionID>90003</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>5012</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>对(?)(敌人)释放技能</PostScript>
+  </info>
+  <info un32ID="5020">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>5010</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>使用攻击支援</PostScript>
+  </info>
+  <info un32ID="5021">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>5020</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>攻击等待</PostScript>
+  </info>
+  <info un32ID="5022">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5021</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>正在自动攻击中</PostScript>
+  </info>
+  <info un32ID="5023">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>5021</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="5024">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>5020</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>执行攻击</PostScript>
+  </info>
+  <info un32ID="6000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>交战</PostScript>
+  </info>
+  <info un32ID="6001">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>攻击英雄</PostScript>
+  </info>
+  <info un32ID="6002">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>追杀</PostScript>
+  </info>
+  <info un32ID="6003">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6002</n32ExNodeID>
+    <n32Value>20,2</n32Value>
+    <PostScript>半径(?)米内有敌方英雄</PostScript>
+  </info>
+  <info un32ID="6004">
+    <n32FunctionID>80024</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6002</n32ExNodeID>
+    <n32Value>30</n32Value>
+    <PostScript>敌方英雄血量低于(?)%</PostScript>
+  </info>
+  <info un32ID="6005">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6002</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>进行追杀</PostScript>
+  </info>
+  <info un32ID="6006">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6005</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>开启怒气状态</PostScript>
+  </info>
+  <info un32ID="6007">
+    <n32FunctionID>80035</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>怒气值满</PostScript>
+  </info>
+  <info un32ID="6008">
+    <n32FunctionID>90007</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>爆发怒气</PostScript>
+  </info>
+  <info un32ID="6009">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6005</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>使用技能追杀</PostScript>
+  </info>
+  <info un32ID="6010">
+    <n32FunctionID>80034</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6009</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>把技能准备好</PostScript>
+  </info>
+  <info un32ID="6011">
+    <n32FunctionID>80015</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6009</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>技能未在冷却中</PostScript>
+  </info>
+  <info un32ID="6012">
+    <n32FunctionID>80016</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6009</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>技能满足消耗</PostScript>
+  </info>
+  <info un32ID="6013">
+    <n32FunctionID>80017</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6009</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>自身未被沉默</PostScript>
+  </info>
+  <info un32ID="6014">
+    <n32FunctionID>80018</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6009</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>目标在(?)(技能)释放范围内</PostScript>
+  </info>
+  <info un32ID="6015">
+    <n32FunctionID>80014</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6009</n32ExNodeID>
+    <n32Value>3</n32Value>
+    <PostScript>技能可以对(?)(敌人)释放</PostScript>
+  </info>
+  <info un32ID="6016">
+    <n32FunctionID>90003</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6009</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>对(?)(敌方)释放技能</PostScript>
+  </info>
+  <info un32ID="6017">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6005</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>使用攻击追杀</PostScript>
+  </info>
+  <info un32ID="6018">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6017</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>攻击等待</PostScript>
+  </info>
+  <info un32ID="6019">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6018</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>正在自动攻击中</PostScript>
+  </info>
+  <info un32ID="6020">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6018</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="6021">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6017</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>执行攻击</PostScript>
+  </info>
+  <info un32ID="6038">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>攻击小兵</PostScript>
+  </info>
+  <info un32ID="6039">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6038</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>补刀</PostScript>
+  </info>
+  <info un32ID="6040">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6039</n32ExNodeID>
+    <n32Value>20,3</n32Value>
+    <PostScript>半径(?)米内有敌方小兵</PostScript>
+  </info>
+  <info un32ID="6041">
+    <n32FunctionID>80036</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6039</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>敌方小兵血量低于单次攻击伤害之下</PostScript>
+  </info>
+  <info un32ID="6042">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6039</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>锁定符合条件的小兵攻击</PostScript>
+  </info>
+  <info un32ID="6043">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6042</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>攻击等待</PostScript>
+  </info>
+  <info un32ID="6044">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6043</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>正在自动攻击中</PostScript>
+  </info>
+  <info un32ID="6045">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6043</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="6046">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6042</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>执行攻击</PostScript>
+  </info>
+  <info un32ID="6054">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6038</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>骚扰</PostScript>
+  </info>
+  <info un32ID="6055">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6054</n32ExNodeID>
+    <n32Value>20,2</n32Value>
+    <PostScript>半径(?)米内有敌方英雄</PostScript>
+  </info>
+  <info un32ID="4044">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6054</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>退出小兵追击范围</PostScript>
+  </info>
+  <info un32ID="4055">
+    <n32FunctionID>80013</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4044</n32ExNodeID>
+    <n32Value>2,2,2</n32Value>
+    <PostScript>(？)秒内受到来自(?)(1.敌人；2.小兵；3.英雄；4.箭塔；)的伤害超过自身生命值(?)%</PostScript>
+  </info>
+  <info un32ID="4052">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>4044</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>逃跑</PostScript>
+  </info>
+  <info un32ID="4056">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>4052</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>逃跑等待</PostScript>
+  </info>
+  <info un32ID="4057">
+    <n32FunctionID>80007</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4056</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>请求移动中</PostScript>
+  </info>
+  <info un32ID="4058">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4056</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="4059">
+    <n32FunctionID>90005</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4052</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>执行(?)(逃跑)寻路</PostScript>
+  </info>
+  <info un32ID="6065">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6054</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>使用攻击骚扰</PostScript>
+  </info>
+  <info un32ID="6066">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6065</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>攻击等待</PostScript>
+  </info>
+  <info un32ID="6067">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6066</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>正在自动攻击中</PostScript>
+  </info>
+  <info un32ID="6070">
+    <n32FunctionID>80043</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6066</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>攻击对象为锁定对象</PostScript>
+  </info>
+  <info un32ID="6068">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6066</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="6069">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6065</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>执行攻击</PostScript>
+  </info>
+  <info un32ID="6047">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6038</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>一般攻击</PostScript>
+  </info>
+  <info un32ID="6048">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6047</n32ExNodeID>
+    <n32Value>20,3</n32Value>
+    <PostScript>半径(?)米内有敌方小兵</PostScript>
+  </info>
+  <info un32ID="6049">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6047</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>锁定符合条件的小兵攻击</PostScript>
+  </info>
+  <info un32ID="6050">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6049</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>攻击等待</PostScript>
+  </info>
+  <info un32ID="6051">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6050</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>正在自动攻击中</PostScript>
+  </info>
+  <info un32ID="6052">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6050</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="6053">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6049</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>执行攻击</PostScript>
+  </info>
+  <info un32ID="7000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>推进</PostScript>
+  </info>
+  <info un32ID="7001">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>7000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>推塔</PostScript>
+  </info>
+  <info un32ID="7002">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>7001</n32ExNodeID>
+    <n32Value>20,1</n32Value>
+    <PostScript>半径(?)米内有敌方建筑</PostScript>
+  </info>
+  <info un32ID="7003">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>7001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>攻击建筑</PostScript>
+  </info>
+  <info un32ID="7004">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>7003</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>攻击等待</PostScript>
+  </info>
+  <info un32ID="7005">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>7004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>正在自动攻击中</PostScript>
+  </info>
+  <info un32ID="7006">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>7004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="7007">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>7003</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>执行攻击</PostScript>
+  </info>
+  <info un32ID="8000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>打野</PostScript>
+  </info>
+  <info un32ID="8001">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8000</n32ExNodeID>
+    <n32Value>20,4</n32Value>
+    <PostScript>半径(?)米内有中立生物</PostScript>
+  </info>
+  <info un32ID="8002">
+    <n32FunctionID>80026</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8000</n32ExNodeID>
+    <n32Value>20</n32Value>
+    <PostScript>半径(?)米内没有敌人</PostScript>
+  </info>
+  <info un32ID="8013">
+    <n32FunctionID>80030</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8000</n32ExNodeID>
+    <n32Value>5</n32Value>
+    <PostScript>自身等级大于(?)(数字)</PostScript>
+  </info>
+  <info un32ID="8008">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>8000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>攻击高级野怪</PostScript>
+  </info>
+  <info un32ID="8014">
+    <n32FunctionID>80030</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8008</n32ExNodeID>
+    <n32Value>8</n32Value>
+    <PostScript>自身等级大于(?)(数字)</PostScript>
+  </info>
+  <info un32ID="8015">
+    <n32FunctionID>80042</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8008</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>野怪等级属于(?)(1.低级;2.高级;)</PostScript>
+  </info>
+  <info un32ID="8009">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>8008</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>攻击等待</PostScript>
+  </info>
+  <info un32ID="8010">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8009</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>正在自动攻击中</PostScript>
+  </info>
+  <info un32ID="8011">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>8009</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="8012">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>8008</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>执行攻击</PostScript>
+  </info>
+  <info un32ID="8003">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>8000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>攻击低级野怪</PostScript>
+  </info>
+  <info un32ID="8016">
+    <n32FunctionID>80042</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8003</n32ExNodeID>
+    <n32Value>1</n32Value>
+    <PostScript>野怪等级属于(?)(1.低级;2.高级;)</PostScript>
+  </info>
+  <info un32ID="8004">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>8003</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>攻击等待</PostScript>
+  </info>
+  <info un32ID="8005">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>正在自动攻击中</PostScript>
+  </info>
+  <info un32ID="8006">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>8004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="8007">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>8003</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>执行攻击</PostScript>
+  </info>
+  <info un32ID="9000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>附身</PostScript>
+  </info>
+  <info un32ID="9001">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>9000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>放置祭坛</PostScript>
+  </info>
+  <info un32ID="9003">
+    <n32FunctionID>80028</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>9001</n32ExNodeID>
+    <n32Value>20,1</n32Value>
+    <PostScript>半径(?)米内有(?)(1.未使用2.已使用3.都行)友方祭坛</PostScript>
+  </info>
+  <info un32ID="9002">
+    <n32FunctionID>80027</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>9001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>身上有吸收的怪物</PostScript>
+  </info>
+  <info un32ID="9005">
+    <n32FunctionID>90008</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>9001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>把吸收的怪物放进祭坛</PostScript>
+  </info>
+  <info un32ID="9006">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>9000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>执行附身</PostScript>
+  </info>
+  <info un32ID="9007">
+    <n32FunctionID>80030</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>9006</n32ExNodeID>
+    <n32Value>3</n32Value>
+    <PostScript>人物等级大于(?)级</PostScript>
+  </info>
+  <info un32ID="9010">
+    <n32FunctionID>80032</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>9006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>身上有空余的附身位置</PostScript>
+  </info>
+  <info un32ID="9009">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>9006</n32ExNodeID>
+    <n32Value>20,4</n32Value>
+    <PostScript>半径(?)米内有中立生物</PostScript>
+  </info>
+  <info un32ID="9008">
+    <n32FunctionID>80044</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>9006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>CP点数超过附身所需</PostScript>
+  </info>
+  <info un32ID="9011">
+    <n32FunctionID>90009</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>9006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>执行附身</PostScript>
+  </info>
+  <info un32ID="10000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>进攻</PostScript>
+  </info>
+  <info un32ID="10001">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>10000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>进攻等待</PostScript>
+  </info>
+  <info un32ID="10002">
+    <n32FunctionID>80007</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>10001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>请求移动中</PostScript>
+  </info>
+  <info un32ID="10003">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>10001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>等待</PostScript>
+  </info>
+  <info un32ID="10004">
+    <n32FunctionID>90005</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>10000</n32ExNodeID>
+    <n32Value>1</n32Value>
+    <PostScript>执行(?)(进攻)寻路</PostScript>
+  </info>
+</SkillCfg_RobotAI>

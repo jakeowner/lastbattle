@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bornnpc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info mapid="1000">
+		<taskid>15001</taskid>
+		<post>7500,6100,11500</post>
+		<way>7500,6100,11500</way>
+		<timespace>1000</timespace>
+		<bornnumberspace>100000000</bornnumberspace>
+		<ID>21027,21027</ID>
+		<dir>-1,0,-0.1</dir>
+		<closeborn>90013</closeborn>
+		<camp>-1</camp>
+	</info>
+	<info mapid="1000">
+		<taskid>15002</taskid>
+		<post>7026,6006,10083</post>
+		<way>10000,6006,10083;11184,6006,10383;12363,6006,10083;13468,6006,10083;14591,6006,10083;15759,6006,10009;16759,6006,10009;17859,6006,10009;19159,6006,10009;20359,6006,10009;21759,6006,10009;22759,6006,10009</way>
+		<timespace>2000</timespace>
+		<bornnumberspace>25000</bornnumberspace>
+		<ID>20012,20012,20012,20012,20013</ID>
+		<dir>1,0,-0.1</dir>
+		<camp>1</camp>
+		<altarid>102,103</altarid>
+	</info>
+	<info mapid="1000">
+		<taskid>15003</taskid>
+		<post>22491,6006,10083</post>
+		<way>21759,6006,10009;20359,6006,10009;19159,6006,10009;17859,6006,10009;16759,6006,10009;15759,6006,10009;14591,6006,10083;13468,6006,10083;12363,6006,10083;11184,6006,10383;10000,6006,10083;8500,6006,10083;7200,6006,10083;</way>
+		<timespace>2000</timespace>
+		<bornnumberspace>25000</bornnumberspace>
+		<ID>20010,20010,20010,20010,20011</ID>
+		<dir>-1,0,-0.1</dir>
+		<camp>2</camp>
+		<altarid>107,108</altarid>
+	</info>
+	<info mapid="1000">
+		<taskid>15004</taskid>
+		<post>8100,6100,11800</post>
+		<way>8100,6100,11800</way>
+		<timespace>2000</timespace>
+		<bornnumberspace>1000000</bornnumberspace>
+		<ID>21027</ID>
+		<dir>-1,0,-0.1</dir>
+		<closeborn>90014</closeborn>
+		<camp>-1</camp>
+	</info>
+</bornnpc>

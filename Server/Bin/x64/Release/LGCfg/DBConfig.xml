@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DBCfg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
+	<DB>
+		<ip>127.0.0.1</ip>
+		<Port>3306</Port>
+		<user>root</user>
+		<pwd>123321</pwd>
+		<dbname>FBAll_LogDB_1</dbname> 
+	</DB>
+	<port>1234</port>
+</DBCfg>

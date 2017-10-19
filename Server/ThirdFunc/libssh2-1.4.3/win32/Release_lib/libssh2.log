@@ -1,0 +1,244 @@
+﻿生成启动时间为 2015/4/14 5:21:39。
+     1>项目“C:\work\Server\ThirdFunc\libssh2-1.4.3\win32\libssh2.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“.\Release_lib\libssh2.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I..\win32 /I..\include /I"..\..\openssl-1.0.2-beta3\include" /Zi /nologo /W3 /WX- /O2 /Ob1 /D WIN32 /D NDEBUG /D LIBSSH2_WIN32 /D _LIB /D _VC80_UPGRADE=0x0600 /D _MBCS /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Release_lib\\" /Fd".\Release_lib\vc100.pdb" /Gd /TC /errorReport:prompt ..\src\agent.c ..\src\channel.c ..\src\comp.c ..\src\crypt.c ..\src\global.c ..\src\hostkey.c ..\src\keepalive.c ..\src\kex.c ..\src\knownhost.c ..\src\libgcrypt.c ..\src\mac.c ..\src\misc.c ..\src\openssl.c ..\src\packet.c ..\src\pem.c ..\src\publickey.c ..\src\scp.c ..\src\session.c ..\src\sftp.c ..\src\transport.c ..\src\userauth.c ..\src\version.c
+         agent.c
+     1>..\src\agent.c(310): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+     1>..\src\agent.c(313): warning C4244: “=”: 从“LRESULT”转换到“int”，可能丢失数据
+     1>..\src\agent.c(760): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+     1>..\src\agent.c(760): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+         channel.c
+     1>..\src\channel.c(436): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\channel.c(1127): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\channel.c(1266): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\channel.c(1391): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\channel.c(1420): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\channel.c(1428): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\channel.c(1811): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\channel.c(1817): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\channel.c(1902): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\channel.c(1906): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\channel.c(2047): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\channel.c(2072): warning C4267: “-=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\channel.c(2543): warning C4267: “=”: 从“size_t”转换到“unsigned long”，可能丢失数据
+         comp.c
+         crypt.c
+         global.c
+         hostkey.c
+     1>..\src\hostkey.c(151): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\hostkey.c(151): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\hostkey.c(329): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+         keepalive.c
+     1>..\src\keepalive.c(94): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+         kex.c
+     1>..\src\kex.c(128): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(280): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\kex.c(302): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(313): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(330): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(338): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(346): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(390): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(896): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(982): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(990): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\kex.c(1081): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(1083): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(1085): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(1087): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(1089): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(1091): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(1093): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(1095): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(1097): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(1099): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\kex.c(1248): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1284): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1325): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1360): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1404): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1428): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1459): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1481): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1512): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1535): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1612): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1612): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1616): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1617): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1621): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1622): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1626): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1627): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\kex.c(1750): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+     1>..\src\kex.c(1801): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\kex.c(1871): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+         knownhost.c
+     1>..\src\knownhost.c(167): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+     1>..\src\knownhost.c(174): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+     1>..\src\knownhost.c(402): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+         libgcrypt.c
+         mac.c
+         misc.c
+     1>..\src\misc.c(99): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\misc.c(131): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+         openssl.c
+     1>..\src\openssl.c(191): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+     1>..\src\openssl.c(325): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\openssl.c(375): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\openssl.c(462): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+         packet.c
+     1>..\src\packet.c(435): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\packet.c(496): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\packet.c(496): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\packet.c(496): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\packet.c(516): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\packet.c(551): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\packet.c(551): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\packet.c(663): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\packet.c(713): warning C4267: “-=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\packet.c(884): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\packet.c(897): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\packet.c(1052): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+         pem.c
+         publickey.c
+     1>..\src\publickey.c(141): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\publickey.c(163): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\publickey.c(382): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\publickey.c(648): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\publickey.c(731): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\publickey.c(799): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+         scp.c
+     1>..\src\scp.c(261): warning C4244: “return”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>..\src\scp.c(300): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\scp.c(304): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+     1>..\src\scp.c(365): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\scp.c(390): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\scp.c(547): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\scp.c(584): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\scp.c(703): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\scp.c(730): warning C4244: “=”: 从“long”转换到“unsigned short”，可能丢失数据
+     1>..\src\scp.c(802): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\scp.c(806): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+     1>..\src\scp.c(869): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\scp.c(905): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\scp.c(922): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\scp.c(971): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\scp.c(988): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\scp.c(1017): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+         session.c
+     1>..\src\session.c(107): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\session.c(119): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\session.c(207): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\session.c(657): warning C4244: “函数”: 从“libssh2_socket_t”转换到“int”，可能丢失数据
+     1>..\src\session.c(686): warning C4244: “函数”: 从“libssh2_socket_t”转换到“int”，可能丢失数据
+     1>..\src\session.c(1081): warning C4267: “=”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\session.c(1084): warning C4267: “=”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\session.c(1254): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\session.c(1668): warning C4244: “函数”: 从“libssh2_socket_t”转换到“int”，可能丢失数据
+         sftp.c
+     1>..\src\sftp.c(328): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(330): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(373): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(391): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(396): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(410): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(668): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(825): warning C4244: “+=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(840): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(1038): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\sftp.c(1082): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(1116): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(1346): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\sftp.c(1359): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\sftp.c(1594): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\sftp.c(1706): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(1718): warning C4244: “=”: 从“ssize_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\sftp.c(1758): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(1844): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\sftp.c(1849): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\sftp.c(2031): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\sftp.c(2064): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(2084): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(2087): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(2237): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\sftp.c(2260): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(2355): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\sftp.c(2378): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(2491): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(2509): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(2512): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(2582): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\sftp.c(2632): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(2635): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(2655): warning C4244: “=”: 从“libssh2_uint64_t”转换到“unsigned int”，可能丢失数据
+     1>..\src\sftp.c(2745): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(2748): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(2768): warning C4244: “=”: 从“libssh2_uint64_t”转换到“unsigned int”，可能丢失数据
+     1>..\src\sftp.c(2792): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+     1>..\src\sftp.c(2830): warning C4244: “函数”: 从“ssize_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\sftp.c(2845): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(2928): warning C4244: “函数”: 从“ssize_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\sftp.c(2939): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(3026): warning C4244: “函数”: 从“ssize_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\sftp.c(3052): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+     1>..\src\sftp.c(3155): warning C4244: “函数”: 从“ssize_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\sftp.c(3184): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+         transport.c
+     1>..\src\transport.c(183): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\transport.c(342): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\transport.c(391): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\transport.c(484): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\transport.c(503): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\transport.c(556): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\transport.c(821): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\transport.c(825): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\transport.c(841): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+         Generating Code...
+         Compiling...
+         userauth.c
+     1>..\src\userauth.c(528): warning C4244: “函数”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>..\src\userauth.c(606): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\userauth.c(722): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+     1>..\src\userauth.c(780): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\userauth.c(1141): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+     1>..\src\userauth.c(1257): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+     1>..\src\userauth.c(1258): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+     1>..\src\userauth.c(1310): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+     1>..\src\userauth.c(1310): warning C4267: “函数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+         version.c
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\Lib.exe /OUT:"Release_lib\libssh2.lib" /NOLOGO .\Release_lib\agent.obj
+         .\Release_lib\channel.obj
+         .\Release_lib\comp.obj
+         .\Release_lib\crypt.obj
+         .\Release_lib\global.obj
+         .\Release_lib\hostkey.obj
+         .\Release_lib\keepalive.obj
+         .\Release_lib\kex.obj
+         .\Release_lib\knownhost.obj
+         .\Release_lib\libgcrypt.obj
+         .\Release_lib\mac.obj
+         .\Release_lib\misc.obj
+         .\Release_lib\openssl.obj
+         .\Release_lib\packet.obj
+         .\Release_lib\pem.obj
+         .\Release_lib\publickey.obj
+         .\Release_lib\scp.obj
+         .\Release_lib\session.obj
+         .\Release_lib\sftp.obj
+         .\Release_lib\transport.obj
+         .\Release_lib\userauth.obj
+         .\Release_lib\version.obj
+         libssh2.vcxproj -> C:\work\Server\ThirdFunc\libssh2-1.4.3\win32\.\Release_lib\libssh2.lib
+       FinalizeBuildStatus:
+         正在删除文件“.\Release_lib\libssh2.unsuccessfulbuild”。
+         正在对“.\Release_lib\libssh2.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\work\Server\ThirdFunc\libssh2-1.4.3\win32\libssh2.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.71

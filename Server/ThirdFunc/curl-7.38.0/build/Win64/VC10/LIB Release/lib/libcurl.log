@@ -1,0 +1,256 @@
+﻿生成启动时间为 2015/4/11 22:59:00。
+     1>项目“C:\work\Server\ThirdFunc\curl-7.38.0\projects\Windows\VC10\lib\libcurl.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“..\..\..\..\build\Win64\VC10\LIB Release\lib\libcurl.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I..\..\..\..\include /I..\..\..\..\lib /Zi /nologo /W3 /WX- /O2 /Ob1 /D WIN64 /D NDEBUG /D BUILDING_LIBCURL /D CURL_STATICLIB /D _MBCS /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"..\..\..\..\build\Win64\VC10\LIB Release\lib\\" /Fd"..\..\..\..\build\Win64\VC10\LIB Release\lib\vc100.pdb" /Gd /TC /errorReport:prompt ..\..\..\..\lib\amigaos.c "..\..\..\..\lib\asyn-ares.c" "..\..\..\..\lib\asyn-thread.c" ..\..\..\..\lib\base64.c ..\..\..\..\lib\bundles.c ..\..\..\..\lib\conncache.c ..\..\..\..\lib\connect.c ..\..\..\..\lib\content_encoding.c ..\..\..\..\lib\cookie.c ..\..\..\..\lib\curl_addrinfo.c ..\..\..\..\lib\curl_fnmatch.c ..\..\..\..\lib\curl_gethostname.c ..\..\..\..\lib\curl_gssapi.c ..\..\..\..\lib\curl_memrchr.c ..\..\..\..\lib\curl_multibyte.c ..\..\..\..\lib\curl_ntlm.c ..\..\..\..\lib\curl_ntlm_core.c ..\..\..\..\lib\curl_ntlm_msgs.c ..\..\..\..\lib\curl_ntlm_wb.c ..\..\..\..\lib\curl_rtmp.c ..\..\..\..\lib\curl_sasl.c ..\..\..\..\lib\curl_sasl_sspi.c ..\..\..\..\lib\curl_sspi.c ..\..\..\..\lib\curl_threads.c ..\..\..\..\lib\dict.c ..\..\..\..\lib\dotdot.c ..\..\..\..\lib\easy.c ..\..\..\..\lib\escape.c ..\..\..\..\lib\file.c ..\..\..\..\lib\fileinfo.c ..\..\..\..\lib\formdata.c ..\..\..\..\lib\ftp.c ..\..\..\..\lib\ftplistparser.c ..\..\..\..\lib\getenv.c ..\..\..\..\lib\getinfo.c ..\..\..\..\lib\gopher.c ..\..\..\..\lib\hash.c ..\..\..\..\lib\hmac.c ..\..\..\..\lib\hostasyn.c ..\..\..\..\lib\hostcheck.c ..\..\..\..\lib\hostip4.c ..\..\..\..\lib\hostip6.c ..\..\..\..\lib\hostip.c ..\..\..\..\lib\hostsyn.c ..\..\..\..\lib\http2.c ..\..\..\..\lib\http.c ..\..\..\..\lib\http_chunks.c ..\..\..\..\lib\http_digest.c ..\..\..\..\lib\http_negotiate.c ..\..\..\..\lib\http_negotiate_sspi.c ..\..\..\..\lib\http_proxy.c ..\..\..\..\lib\idn_win32.c ..\..\..\..\lib\if2ip.c ..\..\..\..\lib\imap.c ..\..\..\..\lib\inet_ntop.c ..\..\..\..\lib\inet_pton.c ..\..\..\..\lib\krb5.c ..\..\..\..\lib\ldap.c ..\..\..\..\lib\llist.c ..\..\..\..\lib\md4.c ..\..\..\..\lib\md5.c ..\..\..\..\lib\memdebug.c ..\..\..\..\lib\mprintf.c ..\..\..\..\lib\multi.c ..\..\..\..\lib\netrc.c "..\..\..\..\lib\non-ascii.c" ..\..\..\..\lib\nonblock.c ..\..\..\..\lib\openldap.c ..\..\..\..\lib\parsedate.c ..\..\..\..\lib\pingpong.c ..\..\..\..\lib\pipeline.c ..\..\..\..\lib\pop3.c ..\..\..\..\lib\progress.c ..\..\..\..\lib\rawstr.c ..\..\..\..\lib\rtsp.c ..\..\..\..\lib\security.c ..\..\..\..\lib\select.c ..\..\..\..\lib\sendf.c ..\..\..\..\lib\share.c ..\..\..\..\lib\slist.c ..\..\..\..\lib\smtp.c ..\..\..\..\lib\socks.c ..\..\..\..\lib\socks_gssapi.c ..\..\..\..\lib\socks_sspi.c ..\..\..\..\lib\speedcheck.c ..\..\..\..\lib\splay.c ..\..\..\..\lib\ssh.c ..\..\..\..\lib\strdup.c ..\..\..\..\lib\strequal.c ..\..\..\..\lib\strerror.c ..\..\..\..\lib\strtok.c ..\..\..\..\lib\strtoofft.c ..\..\..\..\lib\telnet.c ..\..\..\..\lib\tftp.c ..\..\..\..\lib\timeval.c ..\..\..\..\lib\transfer.c ..\..\..\..\lib\url.c ..\..\..\..\lib\version.c ..\..\..\..\lib\warnless.c ..\..\..\..\lib\wildcard.c ..\..\..\..\lib\x509asn1.c ..\..\..\..\lib\vtls\axtls.c ..\..\..\..\lib\vtls\curl_darwinssl.c ..\..\..\..\lib\vtls\curl_schannel.c ..\..\..\..\lib\vtls\cyassl.c ..\..\..\..\lib\vtls\gskit.c ..\..\..\..\lib\vtls\gtls.c ..\..\..\..\lib\vtls\nss.c ..\..\..\..\lib\vtls\openssl.c ..\..\..\..\lib\vtls\polarssl.c ..\..\..\..\lib\vtls\polarssl_threadlock.c ..\..\..\..\lib\vtls\qssl.c ..\..\..\..\lib\vtls\vtls.c
+         amigaos.c
+         asyn-ares.c
+         asyn-thread.c
+         base64.c
+         bundles.c
+         conncache.c
+         connect.c
+         content_encoding.c
+         cookie.c
+         curl_addrinfo.c
+         curl_fnmatch.c
+         curl_gethostname.c
+         curl_gssapi.c
+         curl_memrchr.c
+         curl_multibyte.c
+         curl_ntlm.c
+         curl_ntlm_core.c
+         curl_ntlm_msgs.c
+         curl_ntlm_wb.c
+         curl_rtmp.c
+         Generating Code...
+         Compiling...
+         curl_sasl.c
+         curl_sasl_sspi.c
+         curl_sspi.c
+         curl_threads.c
+         dict.c
+         dotdot.c
+         easy.c
+         escape.c
+         file.c
+         fileinfo.c
+         formdata.c
+         ftp.c
+         ftplistparser.c
+         getenv.c
+         getinfo.c
+         gopher.c
+         hash.c
+         hmac.c
+         hostasyn.c
+         hostcheck.c
+         Generating Code...
+         Compiling...
+         hostip4.c
+         hostip6.c
+         hostip.c
+         hostsyn.c
+         http2.c
+         http.c
+         http_chunks.c
+         http_digest.c
+         http_negotiate.c
+         http_negotiate_sspi.c
+         http_proxy.c
+         idn_win32.c
+         if2ip.c
+         imap.c
+         inet_ntop.c
+         inet_pton.c
+         krb5.c
+         ldap.c
+         llist.c
+         md4.c
+         Generating Code...
+         Compiling...
+         md5.c
+         memdebug.c
+         mprintf.c
+         multi.c
+         netrc.c
+         non-ascii.c
+         nonblock.c
+         openldap.c
+         parsedate.c
+         pingpong.c
+         pipeline.c
+         pop3.c
+         progress.c
+         rawstr.c
+         rtsp.c
+         security.c
+         select.c
+         sendf.c
+         share.c
+         slist.c
+         Generating Code...
+         Compiling...
+         smtp.c
+         socks.c
+         socks_gssapi.c
+         socks_sspi.c
+         speedcheck.c
+         splay.c
+         ssh.c
+         strdup.c
+         strequal.c
+         strerror.c
+         strtok.c
+         strtoofft.c
+         telnet.c
+         tftp.c
+         timeval.c
+         transfer.c
+         url.c
+         version.c
+         warnless.c
+         wildcard.c
+         Generating Code...
+         Compiling...
+         x509asn1.c
+         axtls.c
+         curl_darwinssl.c
+         curl_schannel.c
+         cyassl.c
+         gskit.c
+         gtls.c
+         nss.c
+         openssl.c
+         polarssl.c
+         polarssl_threadlock.c
+         qssl.c
+         vtls.c
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /l"0x0409" /nologo /fo"..\..\..\..\build\Win64\VC10\LIB Release\lib\libcurl.res" ..\..\..\..\lib\libcurl.rc 
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\Lib.exe /OUT:"..\..\..\..\build\Win64\VC10\LIB Release\libcurl.lib" /NOLOGO /MACHINE:X64 "..\..\..\..\build\Win64\VC10\LIB Release\lib\libcurl.res"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\amigaos.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\asyn-ares.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\asyn-thread.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\base64.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\bundles.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\conncache.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\connect.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\content_encoding.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\cookie.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_addrinfo.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_fnmatch.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_gethostname.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_gssapi.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_memrchr.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_multibyte.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_ntlm.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_ntlm_core.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_ntlm_msgs.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_ntlm_wb.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_rtmp.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_sasl.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_sasl_sspi.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_sspi.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_threads.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\dict.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\dotdot.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\easy.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\escape.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\file.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\fileinfo.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\formdata.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\ftp.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\ftplistparser.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\getenv.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\getinfo.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\gopher.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\hash.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\hmac.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\hostasyn.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\hostcheck.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\hostip4.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\hostip6.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\hostip.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\hostsyn.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\http2.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\http.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\http_chunks.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\http_digest.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\http_negotiate.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\http_negotiate_sspi.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\http_proxy.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\idn_win32.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\if2ip.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\imap.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\inet_ntop.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\inet_pton.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\krb5.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\ldap.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\llist.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\md4.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\md5.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\memdebug.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\mprintf.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\multi.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\netrc.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\non-ascii.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\nonblock.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\openldap.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\parsedate.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\pingpong.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\pipeline.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\pop3.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\progress.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\rawstr.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\rtsp.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\security.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\select.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\sendf.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\share.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\slist.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\smtp.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\socks.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\socks_gssapi.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\socks_sspi.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\speedcheck.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\splay.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\ssh.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\strdup.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\strequal.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\strerror.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\strtok.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\strtoofft.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\telnet.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\tftp.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\timeval.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\transfer.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\url.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\version.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\warnless.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\wildcard.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\x509asn1.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\axtls.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_darwinssl.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\curl_schannel.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\cyassl.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\gskit.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\gtls.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\nss.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\openssl.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\polarssl.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\polarssl_threadlock.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\qssl.obj"
+         "..\..\..\..\build\Win64\VC10\LIB Release\lib\vtls.obj"
+         libcurl.vcxproj -> C:\work\Server\ThirdFunc\curl-7.38.0\projects\Windows\VC10\lib\..\..\..\..\build\Win64\VC10\LIB Release\libcurl.lib
+       FinalizeBuildStatus:
+         正在删除文件“..\..\..\..\build\Win64\VC10\LIB Release\lib\libcurl.unsuccessfulbuild”。
+         正在对“..\..\..\..\build\Win64\VC10\LIB Release\lib\libcurl.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\work\Server\ThirdFunc\curl-7.38.0\projects\Windows\VC10\lib\libcurl.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.98

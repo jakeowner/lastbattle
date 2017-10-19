@@ -1,0 +1,8 @@
+﻿生成启动时间为 2015/4/11 23:07:49。
+     1>项目“C:\work\Server\UCore\thirdparty\libiconv\libiconv\libiconv.vcxproj”在节点 2 上(build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\x64\Microsoft.Cpp.x64.Targets(507,5): error MSB8008: 指定的平台工具集(v110)未安装或无效。请确保选择受支持的 PlatformToolset 值。
+     1>已完成生成项目“C:\work\Server\UCore\thirdparty\libiconv\libiconv\libiconv.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.02

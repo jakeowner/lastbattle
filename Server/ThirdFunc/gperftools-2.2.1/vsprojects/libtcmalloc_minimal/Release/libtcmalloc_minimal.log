@@ -1,0 +1,101 @@
+﻿生成启动时间为 2015/4/11 23:45:09。
+     1>项目“C:\work\Server\ThirdFunc\gperftools-2.2.1\vsprojects\libtcmalloc_minimal\libtcmalloc_minimal.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\work\Server\ThirdFunc\gperftools-2.2.1\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\libtcmalloc_minimal.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I..\..\src\windows /I..\..\src /Zi /nologo /W3 /WX- /O2 /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D LIBTCMALLOC_MINIMAL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /errorReport:prompt ..\..\src\central_freelist.cc "..\..\src\heap-profile-table.cc" ..\..\src\symbolize.cc ..\..\src\windows\ia32_modrm_map.cc ..\..\src\windows\ia32_opcode_map.cc ..\..\src\common.cc ..\..\src\internal_logging.cc ..\..\src\base\logging.cc ..\..\src\base\low_level_alloc.cc ..\..\src\malloc_extension.cc ..\..\src\malloc_hook.cc ..\..\src\memory_region_map.cc ..\..\src\windows\mini_disassembler.cc ..\..\src\page_heap.cc ..\..\src\sampler.cc ..\..\src\windows\patch_functions.cc ..\..\src\windows\port.cc ..\..\src\windows\preamble_patcher.cc ..\..\src\windows\preamble_patcher_with_stub.cc "..\..\src\windows\system-alloc.cc" ..\..\src\raw_printer.cc ..\..\src\span.cc ..\..\src\stacktrace.cc ..\..\src\stack_trace_table.cc ..\..\src\static_vars.cc ..\..\src\thread_cache.cc
+         central_freelist.cc
+         heap-profile-table.cc
+     1>c:\work\server\thirdfunc\gperftools-2.2.1\src\heap-profile-table.h(206): warning C4800: “const uintptr_t”: 将值强制为布尔值“true”或“false”(性能警告)
+         symbolize.cc
+         ia32_modrm_map.cc
+     1>..\..\src\windows\ia32_modrm_map.cc : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\work\server\thirdfunc\gperftools-2.2.1\src\windows\mini_disassembler.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         ia32_opcode_map.cc
+     1>..\..\src\windows\ia32_opcode_map.cc : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\work\server\thirdfunc\gperftools-2.2.1\src\windows\mini_disassembler.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         common.cc
+         internal_logging.cc
+         logging.cc
+         low_level_alloc.cc
+         malloc_extension.cc
+         malloc_hook.cc
+         memory_region_map.cc
+         mini_disassembler.cc
+     1>c:\work\server\thirdfunc\gperftools-2.2.1\src\windows\mini_disassembler.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         page_heap.cc
+         sampler.cc
+         patch_functions.cc
+         port.cc
+         preamble_patcher.cc
+     1>c:\work\server\thirdfunc\gperftools-2.2.1\src\windows\mini_disassembler.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         preamble_patcher_with_stub.cc
+     1>c:\work\server\thirdfunc\gperftools-2.2.1\src\windows\mini_disassembler.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         system-alloc.cc
+         Generating Code...
+         Compiling...
+         raw_printer.cc
+         span.cc
+         stacktrace.cc
+         stack_trace_table.cc
+         static_vars.cc
+         thread_cache.cc
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I..\..\src\windows /I..\..\src /Zi /nologo /W3 /WX- /O2 /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D LIBTCMALLOC_MINIMAL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /errorReport:prompt ..\..\src\base\dynamic_annotations.c
+         dynamic_annotations.c
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D LIBTCMALLOC_MINIMAL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /errorReport:prompt "..\..\src\heap-profiler.cc"
+         heap-profiler.cc
+     1>c:\work\server\thirdfunc\gperftools-2.2.1\src\heap-profile-table.h(206): warning C4800: “const uintptr_t”: 将值强制为布尔值“true”或“false”(性能警告)
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I..\..\src\windows /I..\..\src /Zi /nologo /W3 /WX- /O2 /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D LIBTCMALLOC_MINIMAL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /errorReport:prompt ..\..\src\base\spinlock.cc ..\..\src\base\spinlock_internal.cc ..\..\src\base\sysinfo.cc
+         spinlock.cc
+         spinlock_internal.cc
+         sysinfo.cc
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\work\Server\ThirdFunc\gperftools-2.2.1\Release\libtcmalloc_minimal.dll" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\libtcmalloc_minimal.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\work\Server\ThirdFunc\gperftools-2.2.1\Release\libtcmalloc_minimal.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\work\Server\ThirdFunc\gperftools-2.2.1\Release\libtcmalloc_minimal.lib" /MACHINE:X64 /DLL Release\central_freelist.obj
+         Release\dynamic_annotations.obj
+         "Release\heap-profile-table.obj"
+         "Release\heap-profiler.obj"
+         Release\symbolize.obj
+         Release\ia32_modrm_map.obj
+         Release\ia32_opcode_map.obj
+         Release\common.obj
+         Release\internal_logging.obj
+         Release\logging.obj
+         Release\low_level_alloc.obj
+         Release\malloc_extension.obj
+         Release\malloc_hook.obj
+         Release\memory_region_map.obj
+         Release\mini_disassembler.obj
+         Release\page_heap.obj
+         Release\sampler.obj
+         Release\patch_functions.obj
+         Release\port.obj
+         Release\preamble_patcher.obj
+         Release\preamble_patcher_with_stub.obj
+         "Release\system-alloc.obj"
+         Release\raw_printer.obj
+         Release\span.obj
+         Release\stacktrace.obj
+         Release\stack_trace_table.obj
+         Release\static_vars.obj
+         Release\spinlock.obj
+         Release\spinlock_internal.obj
+         Release\sysinfo.obj
+         Release\thread_cache.obj
+     1>port.obj : warning LNK4078: 找到多个“.CRT”节，它们具有不同的特性(C0400040)
+            正在创建库 C:\work\Server\ThirdFunc\gperftools-2.2.1\Release\libtcmalloc_minimal.lib 和对象 C:\work\Server\ThirdFunc\gperftools-2.2.1\Release\libtcmalloc_minimal.exp
+     1>LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+         libtcmalloc_minimal.vcxproj -> C:\work\Server\ThirdFunc\gperftools-2.2.1\Release\libtcmalloc_minimal.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\work\Server\ThirdFunc\gperftools-2.2.1\Release\libtcmalloc_minimal.dll;#2" /manifest Release\libtcmalloc_minimal.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\libtcmalloc_minimal.unsuccessfulbuild”。
+         正在对“Release\libtcmalloc_minimal.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\work\Server\ThirdFunc\gperftools-2.2.1\vsprojects\libtcmalloc_minimal\libtcmalloc_minimal.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:12.93
