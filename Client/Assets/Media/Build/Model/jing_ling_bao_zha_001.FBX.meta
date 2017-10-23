@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 55c2c0617dd5628488842ed92c6495f2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Bone005
+    100010: Bone006
+    100012: Bone007
+    100014: Bone008
+    100016: Bone009
+    100018: Bone010
+    100020: Bone011
+    100022: Bone012
+    100024: Bone013
+    100026: Bone014
+    100028: Bone015
+    100030: Bone016
+    100032: Bone017
+    100034: Bone018
+    100036: Bone019
+    100038: Bone020
+    100040: Bone021
+    100042: Bone022
+    100044: Bone023
+    100046: Bone024
+    100048: //RootNode
+    100050: suipian1
+    100052: suipian10
+    100054: suipian11
+    100056: suipian12
+    100058: suipian13
+    100060: suipian14
+    100062: suipian15
+    100064: suipian16
+    100066: suipian17
+    100068: suipian18
+    100070: suipian19
+    100072: suipian19 1
+    100074: suipian2
+    100076: suipian20
+    100078: suipian20 1
+    100080: suipian22
+    100082: suipian23
+    100084: suipian24
+    100086: suipian25
+    100088: suipian26
+    100090: suipian27
+    100092: suipian3
+    100094: suipian4
+    100096: suipian5
+    100098: suipian6
+    100100: suipian7
+    100102: suipian8
+    100104: suipian9
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Bone005
+    400010: Bone006
+    400012: Bone007
+    400014: Bone008
+    400016: Bone009
+    400018: Bone010
+    400020: Bone011
+    400022: Bone012
+    400024: Bone013
+    400026: Bone014
+    400028: Bone015
+    400030: Bone016
+    400032: Bone017
+    400034: Bone018
+    400036: Bone019
+    400038: Bone020
+    400040: Bone021
+    400042: Bone022
+    400044: Bone023
+    400046: Bone024
+    400048: //RootNode
+    400050: suipian1
+    400052: suipian10
+    400054: suipian11
+    400056: suipian12
+    400058: suipian13
+    400060: suipian14
+    400062: suipian15
+    400064: suipian16
+    400066: suipian17
+    400068: suipian18
+    400070: suipian19
+    400072: suipian19 1
+    400074: suipian2
+    400076: suipian20
+    400078: suipian20 1
+    400080: suipian22
+    400082: suipian23
+    400084: suipian24
+    400086: suipian25
+    400088: suipian26
+    400090: suipian27
+    400092: suipian3
+    400094: suipian4
+    400096: suipian5
+    400098: suipian6
+    400100: suipian7
+    400102: suipian8
+    400104: suipian9
+    2300000: suipian1
+    2300002: suipian10
+    2300004: suipian2
+    2300006: suipian4
+    3300000: suipian1
+    3300002: suipian10
+    3300004: suipian2
+    3300006: suipian4
+    4300000: suipian20
+    4300002: suipian22
+    4300004: suipian24
+    4300006: suipian23
+    4300008: suipian3
+    4300010: suipian7
+    4300012: suipian8
+    4300014: suipian1
+    4300016: suipian17
+    4300018: suipian16
+    4300020: suipian13
+    4300022: suipian20
+    4300024: suipian12
+    4300026: suipian14
+    4300028: suipian27
+    4300030: suipian15
+    4300032: suipian5
+    4300034: suipian2
+    4300036: suipian10
+    4300038: suipian6
+    4300040: suipian19
+    4300042: suipian18
+    4300044: suipian19
+    4300046: suipian26
+    4300048: suipian11
+    4300050: suipian9
+    4300052: suipian25
+    4300054: suipian4
+    7400000: free
+    7400002: death
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: suipian11
+    13700002: suipian12
+    13700004: suipian13
+    13700006: suipian14
+    13700008: suipian15
+    13700010: suipian16
+    13700012: suipian17
+    13700014: suipian18
+    13700016: suipian19
+    13700018: suipian19 1
+    13700020: suipian20
+    13700022: suipian20 1
+    13700024: suipian22
+    13700026: suipian23
+    13700028: suipian24
+    13700030: suipian25
+    13700032: suipian26
+    13700034: suipian27
+    13700036: suipian3
+    13700038: suipian5
+    13700040: suipian6
+    13700042: suipian7
+    13700044: suipian8
+    13700046: suipian9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: free
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone002
+        weight: 1
+      - path: Bone003
+        weight: 1
+      - path: Bone004
+        weight: 1
+      - path: Bone005
+        weight: 1
+      - path: Bone006
+        weight: 1
+      - path: Bone007
+        weight: 1
+      - path: Bone008
+        weight: 1
+      - path: Bone009
+        weight: 1
+      - path: Bone010
+        weight: 1
+      - path: Bone011
+        weight: 1
+      - path: Bone012
+        weight: 1
+      - path: Bone013
+        weight: 1
+      - path: Bone014
+        weight: 1
+      - path: Bone015
+        weight: 1
+      - path: Bone016
+        weight: 1
+      - path: Bone017
+        weight: 1
+      - path: Bone018
+        weight: 1
+      - path: Bone019
+        weight: 1
+      - path: Bone020
+        weight: 1
+      - path: Bone021
+        weight: 1
+      - path: Bone022
+        weight: 1
+      - path: Bone023
+        weight: 1
+      - path: Bone024
+        weight: 1
+      - path: suipian1
+        weight: 1
+      - path: suipian2
+        weight: 1
+      - path: suipian3
+        weight: 1
+      - path: suipian4
+        weight: 1
+      - path: suipian5
+        weight: 1
+      - path: suipian6
+        weight: 1
+      - path: suipian7
+        weight: 1
+      - path: suipian8
+        weight: 1
+      - path: suipian9
+        weight: 1
+      - path: suipian10
+        weight: 1
+      - path: suipian11
+        weight: 1
+      - path: suipian12
+        weight: 1
+      - path: suipian13
+        weight: 1
+      - path: suipian14
+        weight: 1
+      - path: suipian15
+        weight: 1
+      - path: suipian16
+        weight: 1
+      - path: suipian17
+        weight: 1
+      - path: suipian18
+        weight: 1
+      - path: suipian19
+        weight: 1
+      - path: suipian19 1
+        weight: 1
+      - path: suipian20
+        weight: 1
+      - path: suipian20 1
+        weight: 1
+      - path: suipian22
+        weight: 1
+      - path: suipian23
+        weight: 1
+      - path: suipian24
+        weight: 1
+      - path: suipian25
+        weight: 1
+      - path: suipian26
+        weight: 1
+      - path: suipian27
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death
+      takeName: Take 001
+      firstFrame: 85
+      lastFrame: 142
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone002
+        weight: 1
+      - path: Bone003
+        weight: 1
+      - path: Bone004
+        weight: 1
+      - path: Bone005
+        weight: 1
+      - path: Bone006
+        weight: 1
+      - path: Bone007
+        weight: 1
+      - path: Bone008
+        weight: 1
+      - path: Bone009
+        weight: 1
+      - path: Bone010
+        weight: 1
+      - path: Bone011
+        weight: 1
+      - path: Bone012
+        weight: 1
+      - path: Bone013
+        weight: 1
+      - path: Bone014
+        weight: 1
+      - path: Bone015
+        weight: 1
+      - path: Bone016
+        weight: 1
+      - path: Bone017
+        weight: 1
+      - path: Bone018
+        weight: 1
+      - path: Bone019
+        weight: 1
+      - path: Bone020
+        weight: 1
+      - path: Bone021
+        weight: 1
+      - path: Bone022
+        weight: 1
+      - path: Bone023
+        weight: 1
+      - path: Bone024
+        weight: 1
+      - path: suipian1
+        weight: 1
+      - path: suipian2
+        weight: 1
+      - path: suipian3
+        weight: 1
+      - path: suipian4
+        weight: 1
+      - path: suipian5
+        weight: 1
+      - path: suipian6
+        weight: 1
+      - path: suipian7
+        weight: 1
+      - path: suipian8
+        weight: 1
+      - path: suipian9
+        weight: 1
+      - path: suipian10
+        weight: 1
+      - path: suipian11
+        weight: 1
+      - path: suipian12
+        weight: 1
+      - path: suipian13
+        weight: 1
+      - path: suipian14
+        weight: 1
+      - path: suipian15
+        weight: 1
+      - path: suipian16
+        weight: 1
+      - path: suipian17
+        weight: 1
+      - path: suipian18
+        weight: 1
+      - path: suipian19
+        weight: 1
+      - path: suipian19 1
+        weight: 1
+      - path: suipian20
+        weight: 1
+      - path: suipian20 1
+        weight: 1
+      - path: suipian22
+        weight: 1
+      - path: suipian23
+        weight: 1
+      - path: suipian24
+        weight: 1
+      - path: suipian25
+        weight: 1
+      - path: suipian26
+        weight: 1
+      - path: suipian27
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

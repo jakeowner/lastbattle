@@ -1,0 +1,1415 @@
+fileFormatVersion: 2
+guid: 466eb94283bec41479ef0ded4b301be4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ju_du_zhu_001_ty
+    100004: Spider
+    100006: Spider000
+    100008: SpiderBone001
+    100010: SpiderHub
+    100012: SpiderHub001
+    100014: SpiderHub001Bone001
+    100016: SpiderHub001Bone001Bone001
+    100018: SpiderHub001Bone001Bone001Bone001
+    100020: SpiderHub001Bone001Bone001Bone002
+    100022: SpiderHub001Bone001Bone001Bone003
+    100024: SpiderHub001Bone001Bone001Bone003Bone001
+    100026: SpiderHub001Bone001Bone001Bone004
+    100028: SpiderHub001Bone001Bone001Bone004Bone001
+    100030: SpiderLLeg1
+    100032: SpiderLLeg2
+    100034: SpiderLLeg21
+    100036: SpiderLLeg22
+    100038: SpiderLLeg23
+    100040: SpiderLLeg2Platform
+    100042: SpiderLLeg31
+    100044: SpiderLLeg32
+    100046: SpiderLLeg33
+    100048: SpiderLLeg3Platform
+    100050: SpiderLLeg41
+    100052: SpiderLLeg42
+    100054: SpiderLLeg43
+    100056: SpiderLLeg4Platform
+    100058: SpiderLLegAnkle
+    100060: SpiderLLegPlatform
+    100062: SpiderRLeg1
+    100064: SpiderRLeg2
+    100066: SpiderRLeg21
+    100068: SpiderRLeg22
+    100070: SpiderRLeg23
+    100072: SpiderRLeg2Platform
+    100074: SpiderRLeg31
+    100076: SpiderRLeg32
+    100078: SpiderRLeg33
+    100080: SpiderRLeg3Platform
+    100082: SpiderRLeg41
+    100084: SpiderRLeg42
+    100086: SpiderRLeg43
+    100088: SpiderRLeg4Platform
+    100090: SpiderRLegAnkle
+    100092: SpiderRLegPlatform
+    100094: SpiderSpine1
+    100096: SpiderSpine2
+    100098: Bone001
+    100100: Bone002
+    100102: Bone003
+    100104: Bone004
+    400000: //RootNode
+    400002: ju_du_zhu_001_ty
+    400004: Spider
+    400006: Spider000
+    400008: SpiderBone001
+    400010: SpiderHub
+    400012: SpiderHub001
+    400014: SpiderHub001Bone001
+    400016: SpiderHub001Bone001Bone001
+    400018: SpiderHub001Bone001Bone001Bone001
+    400020: SpiderHub001Bone001Bone001Bone002
+    400022: SpiderHub001Bone001Bone001Bone003
+    400024: SpiderHub001Bone001Bone001Bone003Bone001
+    400026: SpiderHub001Bone001Bone001Bone004
+    400028: SpiderHub001Bone001Bone001Bone004Bone001
+    400030: SpiderLLeg1
+    400032: SpiderLLeg2
+    400034: SpiderLLeg21
+    400036: SpiderLLeg22
+    400038: SpiderLLeg23
+    400040: SpiderLLeg2Platform
+    400042: SpiderLLeg31
+    400044: SpiderLLeg32
+    400046: SpiderLLeg33
+    400048: SpiderLLeg3Platform
+    400050: SpiderLLeg41
+    400052: SpiderLLeg42
+    400054: SpiderLLeg43
+    400056: SpiderLLeg4Platform
+    400058: SpiderLLegAnkle
+    400060: SpiderLLegPlatform
+    400062: SpiderRLeg1
+    400064: SpiderRLeg2
+    400066: SpiderRLeg21
+    400068: SpiderRLeg22
+    400070: SpiderRLeg23
+    400072: SpiderRLeg2Platform
+    400074: SpiderRLeg31
+    400076: SpiderRLeg32
+    400078: SpiderRLeg33
+    400080: SpiderRLeg3Platform
+    400082: SpiderRLeg41
+    400084: SpiderRLeg42
+    400086: SpiderRLeg43
+    400088: SpiderRLeg4Platform
+    400090: SpiderRLegAnkle
+    400092: SpiderRLegPlatform
+    400094: SpiderSpine1
+    400096: SpiderSpine2
+    400098: Bone001
+    400100: Bone002
+    400102: Bone003
+    400104: Bone004
+    2300000: SpiderHub
+    2300002: SpiderHub001
+    2300004: SpiderHub001Bone001
+    2300006: SpiderHub001Bone001Bone001
+    2300008: SpiderHub001Bone001Bone001Bone001
+    2300010: SpiderHub001Bone001Bone001Bone002
+    2300012: SpiderHub001Bone001Bone001Bone003
+    2300014: SpiderHub001Bone001Bone001Bone003Bone001
+    2300016: SpiderHub001Bone001Bone001Bone004
+    2300018: SpiderHub001Bone001Bone001Bone004Bone001
+    2300020: SpiderLLeg1
+    2300022: SpiderLLeg2
+    2300024: SpiderLLeg21
+    2300026: SpiderLLeg22
+    2300028: SpiderLLeg23
+    2300030: SpiderLLeg31
+    2300032: SpiderLLeg32
+    2300034: SpiderLLeg33
+    2300036: SpiderLLeg41
+    2300038: SpiderLLeg42
+    2300040: SpiderLLeg43
+    2300042: SpiderLLegAnkle
+    2300044: SpiderRLeg1
+    2300046: SpiderRLeg2
+    2300048: SpiderRLeg21
+    2300050: SpiderRLeg22
+    2300052: SpiderRLeg23
+    2300054: SpiderRLeg31
+    2300056: SpiderRLeg32
+    2300058: SpiderRLeg33
+    2300060: SpiderRLeg41
+    2300062: SpiderRLeg42
+    2300064: SpiderRLeg43
+    2300066: SpiderRLegAnkle
+    2300068: SpiderSpine1
+    2300070: SpiderSpine2
+    3300000: SpiderHub
+    3300002: SpiderHub001
+    3300004: SpiderHub001Bone001
+    3300006: SpiderHub001Bone001Bone001
+    3300008: SpiderHub001Bone001Bone001Bone001
+    3300010: SpiderHub001Bone001Bone001Bone002
+    3300012: SpiderHub001Bone001Bone001Bone003
+    3300014: SpiderHub001Bone001Bone001Bone003Bone001
+    3300016: SpiderHub001Bone001Bone001Bone004
+    3300018: SpiderHub001Bone001Bone001Bone004Bone001
+    3300020: SpiderLLeg1
+    3300022: SpiderLLeg2
+    3300024: SpiderLLeg21
+    3300026: SpiderLLeg22
+    3300028: SpiderLLeg23
+    3300030: SpiderLLeg31
+    3300032: SpiderLLeg32
+    3300034: SpiderLLeg33
+    3300036: SpiderLLeg41
+    3300038: SpiderLLeg42
+    3300040: SpiderLLeg43
+    3300042: SpiderLLegAnkle
+    3300044: SpiderRLeg1
+    3300046: SpiderRLeg2
+    3300048: SpiderRLeg21
+    3300050: SpiderRLeg22
+    3300052: SpiderRLeg23
+    3300054: SpiderRLeg31
+    3300056: SpiderRLeg32
+    3300058: SpiderRLeg33
+    3300060: SpiderRLeg41
+    3300062: SpiderRLeg42
+    3300064: SpiderRLeg43
+    3300066: SpiderRLegAnkle
+    3300068: SpiderSpine1
+    3300070: SpiderSpine2
+    4300000: ju_du_zhu_001_ty
+    4300002: SpiderHub
+    4300004: SpiderLLeg21
+    4300006: SpiderLLeg22
+    4300008: SpiderLLeg23
+    4300010: SpiderRLeg21
+    4300012: SpiderRLeg22
+    4300014: SpiderRLeg23
+    4300016: SpiderLLeg31
+    4300018: SpiderLLeg32
+    4300020: SpiderLLeg33
+    4300022: SpiderRLeg31
+    4300024: SpiderRLeg32
+    4300026: SpiderRLeg33
+    4300028: SpiderLLeg41
+    4300030: SpiderLLeg42
+    4300032: SpiderLLeg43
+    4300034: SpiderRLeg41
+    4300036: SpiderRLeg42
+    4300038: SpiderRLeg43
+    4300040: SpiderSpine1
+    4300042: SpiderSpine2
+    4300044: SpiderHub001
+    4300046: SpiderLLeg1
+    4300048: SpiderLLeg2
+    4300050: SpiderLLegAnkle
+    4300052: SpiderHub001Bone001
+    4300054: SpiderHub001Bone001Bone001
+    4300056: SpiderHub001Bone001Bone001Bone001
+    4300058: SpiderHub001Bone001Bone001Bone002
+    4300060: SpiderHub001Bone001Bone001Bone003
+    4300062: SpiderHub001Bone001Bone001Bone003Bone001
+    4300064: SpiderHub001Bone001Bone001Bone004
+    4300066: SpiderHub001Bone001Bone001Bone004Bone001
+    4300068: SpiderRLeg1
+    4300070: SpiderRLeg2
+    4300072: SpiderRLegAnkle
+    7400000: free
+    7400002: walk
+    7400004: idle
+    7400006: skill
+    7400008: skill2
+    7400010: death
+    7400012: attack
+    7400014: attack2
+    7400016: attack3
+    7400018: hit
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ju_du_zhu_001_ty
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 2
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: free
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 78
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ju_du_zhu_001_ty
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: SpiderHub
+        weight: 1
+      - path: SpiderHub/Spider000
+        weight: 1
+      - path: SpiderHub/Spider000/SpiderBone001
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22/SpiderLLeg23
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32/SpiderLLeg33
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42/SpiderLLeg43
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22/SpiderRLeg23
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32/SpiderRLeg33
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42/SpiderRLeg43
+        weight: 1
+      - path: SpiderHub/SpiderSpine1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone002
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003/SpiderHub001Bone001Bone001Bone003Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004/SpiderHub001Bone001Bone001Bone004Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2/SpiderLLegAnkle
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2/SpiderRLegAnkle
+        weight: 1
+      - path: SpiderLLeg2Platform
+        weight: 1
+      - path: SpiderLLeg3Platform
+        weight: 1
+      - path: SpiderLLeg4Platform
+        weight: 1
+      - path: SpiderLLegPlatform
+        weight: 1
+      - path: SpiderRLeg2Platform
+        weight: 1
+      - path: SpiderRLeg3Platform
+        weight: 1
+      - path: SpiderRLeg4Platform
+        weight: 1
+      - path: SpiderRLegPlatform
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ju_du_zhu_001_ty
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: SpiderHub
+        weight: 1
+      - path: SpiderHub/Spider000
+        weight: 1
+      - path: SpiderHub/Spider000/SpiderBone001
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22/SpiderLLeg23
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32/SpiderLLeg33
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42/SpiderLLeg43
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22/SpiderRLeg23
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32/SpiderRLeg33
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42/SpiderRLeg43
+        weight: 1
+      - path: SpiderHub/SpiderSpine1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone002
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003/SpiderHub001Bone001Bone001Bone003Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004/SpiderHub001Bone001Bone001Bone004Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2/SpiderLLegAnkle
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2/SpiderRLegAnkle
+        weight: 1
+      - path: SpiderLLeg2Platform
+        weight: 1
+      - path: SpiderLLeg3Platform
+        weight: 1
+      - path: SpiderLLeg4Platform
+        weight: 1
+      - path: SpiderLLegPlatform
+        weight: 1
+      - path: SpiderRLeg2Platform
+        weight: 1
+      - path: SpiderRLeg3Platform
+        weight: 1
+      - path: SpiderRLeg4Platform
+        weight: 1
+      - path: SpiderRLegPlatform
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: skill
+      takeName: Take 001
+      firstFrame: 240
+      lastFrame: 264
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ju_du_zhu_001_ty
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: SpiderHub
+        weight: 1
+      - path: SpiderHub/Spider000
+        weight: 1
+      - path: SpiderHub/Spider000/SpiderBone001
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22/SpiderLLeg23
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32/SpiderLLeg33
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42/SpiderLLeg43
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22/SpiderRLeg23
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32/SpiderRLeg33
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42/SpiderRLeg43
+        weight: 1
+      - path: SpiderHub/SpiderSpine1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone002
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003/SpiderHub001Bone001Bone001Bone003Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004/SpiderHub001Bone001Bone001Bone004Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2/SpiderLLegAnkle
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2/SpiderRLegAnkle
+        weight: 1
+      - path: SpiderLLeg2Platform
+        weight: 1
+      - path: SpiderLLeg3Platform
+        weight: 1
+      - path: SpiderLLeg4Platform
+        weight: 1
+      - path: SpiderLLegPlatform
+        weight: 1
+      - path: SpiderRLeg2Platform
+        weight: 1
+      - path: SpiderRLeg3Platform
+        weight: 1
+      - path: SpiderRLeg4Platform
+        weight: 1
+      - path: SpiderRLegPlatform
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: skill2
+      takeName: Take 001
+      firstFrame: 290
+      lastFrame: 315
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ju_du_zhu_001_ty
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: SpiderHub
+        weight: 1
+      - path: SpiderHub/Spider000
+        weight: 1
+      - path: SpiderHub/Spider000/SpiderBone001
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22/SpiderLLeg23
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32/SpiderLLeg33
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42/SpiderLLeg43
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22/SpiderRLeg23
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32/SpiderRLeg33
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42/SpiderRLeg43
+        weight: 1
+      - path: SpiderHub/SpiderSpine1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone002
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003/SpiderHub001Bone001Bone001Bone003Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004/SpiderHub001Bone001Bone001Bone004Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2/SpiderLLegAnkle
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2/SpiderRLegAnkle
+        weight: 1
+      - path: SpiderLLeg2Platform
+        weight: 1
+      - path: SpiderLLeg3Platform
+        weight: 1
+      - path: SpiderLLeg4Platform
+        weight: 1
+      - path: SpiderLLegPlatform
+        weight: 1
+      - path: SpiderRLeg2Platform
+        weight: 1
+      - path: SpiderRLeg3Platform
+        weight: 1
+      - path: SpiderRLeg4Platform
+        weight: 1
+      - path: SpiderRLegPlatform
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death
+      takeName: Take 001
+      firstFrame: 340
+      lastFrame: 384
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ju_du_zhu_001_ty
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: SpiderHub
+        weight: 1
+      - path: SpiderHub/Spider000
+        weight: 1
+      - path: SpiderHub/Spider000/SpiderBone001
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22/SpiderLLeg23
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32/SpiderLLeg33
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42/SpiderLLeg43
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22/SpiderRLeg23
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32/SpiderRLeg33
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42/SpiderRLeg43
+        weight: 1
+      - path: SpiderHub/SpiderSpine1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone002
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003/SpiderHub001Bone001Bone001Bone003Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004/SpiderHub001Bone001Bone001Bone004Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2/SpiderLLegAnkle
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2/SpiderRLegAnkle
+        weight: 1
+      - path: SpiderLLeg2Platform
+        weight: 1
+      - path: SpiderLLeg3Platform
+        weight: 1
+      - path: SpiderLLeg4Platform
+        weight: 1
+      - path: SpiderLLegPlatform
+        weight: 1
+      - path: SpiderRLeg2Platform
+        weight: 1
+      - path: SpiderRLeg3Platform
+        weight: 1
+      - path: SpiderRLeg4Platform
+        weight: 1
+      - path: SpiderRLegPlatform
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      firstFrame: 161
+      lastFrame: 203
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ju_du_zhu_001_ty
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: SpiderHub
+        weight: 1
+      - path: SpiderHub/Spider000
+        weight: 1
+      - path: SpiderHub/Spider000/SpiderBone001
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22/SpiderLLeg23
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32/SpiderLLeg33
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42/SpiderLLeg43
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22/SpiderRLeg23
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32/SpiderRLeg33
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42/SpiderRLeg43
+        weight: 1
+      - path: SpiderHub/SpiderSpine1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone002
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003/SpiderHub001Bone001Bone001Bone003Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004/SpiderHub001Bone001Bone001Bone004Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2/SpiderLLegAnkle
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2/SpiderRLegAnkle
+        weight: 1
+      - path: SpiderLLeg2Platform
+        weight: 1
+      - path: SpiderLLeg3Platform
+        weight: 1
+      - path: SpiderLLeg4Platform
+        weight: 1
+      - path: SpiderLLegPlatform
+        weight: 1
+      - path: SpiderRLeg2Platform
+        weight: 1
+      - path: SpiderRLeg3Platform
+        weight: 1
+      - path: SpiderRLeg4Platform
+        weight: 1
+      - path: SpiderRLegPlatform
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack2
+      takeName: Take 001
+      firstFrame: 600
+      lastFrame: 642
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ju_du_zhu_001_ty
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: SpiderHub
+        weight: 1
+      - path: SpiderHub/Bone001
+        weight: 1
+      - path: SpiderHub/Bone001/Bone002
+        weight: 1
+      - path: SpiderHub/Bone001/Bone002/Bone003
+        weight: 1
+      - path: SpiderHub/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22/SpiderLLeg23
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32/SpiderLLeg33
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42/SpiderLLeg43
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22/SpiderRLeg23
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32/SpiderRLeg33
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42/SpiderRLeg43
+        weight: 1
+      - path: SpiderHub/SpiderSpine1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone002
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003/SpiderHub001Bone001Bone001Bone003Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004/SpiderHub001Bone001Bone001Bone004Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2/SpiderLLegAnkle
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2/SpiderRLegAnkle
+        weight: 1
+      - path: SpiderLLeg2Platform
+        weight: 1
+      - path: SpiderLLeg3Platform
+        weight: 1
+      - path: SpiderLLeg4Platform
+        weight: 1
+      - path: SpiderLLegPlatform
+        weight: 1
+      - path: SpiderRLeg2Platform
+        weight: 1
+      - path: SpiderRLeg3Platform
+        weight: 1
+      - path: SpiderRLeg4Platform
+        weight: 1
+      - path: SpiderRLegPlatform
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack3
+      takeName: Take 001
+      firstFrame: 650
+      lastFrame: 692
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ju_du_zhu_001_ty
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: SpiderHub
+        weight: 1
+      - path: SpiderHub/Bone001
+        weight: 1
+      - path: SpiderHub/Bone001/Bone002
+        weight: 1
+      - path: SpiderHub/Bone001/Bone002/Bone003
+        weight: 1
+      - path: SpiderHub/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22/SpiderLLeg23
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32/SpiderLLeg33
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42/SpiderLLeg43
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22/SpiderRLeg23
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32/SpiderRLeg33
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42/SpiderRLeg43
+        weight: 1
+      - path: SpiderHub/SpiderSpine1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone002
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003/SpiderHub001Bone001Bone001Bone003Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004/SpiderHub001Bone001Bone001Bone004Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2/SpiderLLegAnkle
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2/SpiderRLegAnkle
+        weight: 1
+      - path: SpiderLLeg2Platform
+        weight: 1
+      - path: SpiderLLeg3Platform
+        weight: 1
+      - path: SpiderLLeg4Platform
+        weight: 1
+      - path: SpiderLLegPlatform
+        weight: 1
+      - path: SpiderRLeg2Platform
+        weight: 1
+      - path: SpiderRLeg3Platform
+        weight: 1
+      - path: SpiderRLeg4Platform
+        weight: 1
+      - path: SpiderRLegPlatform
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 420
+      lastFrame: 590
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ju_du_zhu_001_ty
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: SpiderHub
+        weight: 1
+      - path: SpiderHub/Bone001
+        weight: 1
+      - path: SpiderHub/Bone001/Bone002
+        weight: 1
+      - path: SpiderHub/Bone001/Bone002/Bone003
+        weight: 1
+      - path: SpiderHub/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22
+        weight: 1
+      - path: SpiderHub/SpiderLLeg21/SpiderLLeg22/SpiderLLeg23
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32
+        weight: 1
+      - path: SpiderHub/SpiderLLeg31/SpiderLLeg32/SpiderLLeg33
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42
+        weight: 1
+      - path: SpiderHub/SpiderLLeg41/SpiderLLeg42/SpiderLLeg43
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22
+        weight: 1
+      - path: SpiderHub/SpiderRLeg21/SpiderRLeg22/SpiderRLeg23
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32
+        weight: 1
+      - path: SpiderHub/SpiderRLeg31/SpiderRLeg32/SpiderRLeg33
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42
+        weight: 1
+      - path: SpiderHub/SpiderRLeg41/SpiderRLeg42/SpiderRLeg43
+        weight: 1
+      - path: SpiderHub/SpiderSpine1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone002
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone003/SpiderHub001Bone001Bone001Bone003Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderHub001Bone001/SpiderHub001Bone001Bone001/SpiderHub001Bone001Bone001Bone004/SpiderHub001Bone001Bone001Bone004Bone001
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderLLeg1/SpiderLLeg2/SpiderLLegAnkle
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2
+        weight: 1
+      - path: SpiderHub/SpiderSpine1/SpiderSpine2/SpiderHub001/SpiderRLeg1/SpiderRLeg2/SpiderRLegAnkle
+        weight: 1
+      - path: SpiderLLeg2Platform
+        weight: 1
+      - path: SpiderLLeg3Platform
+        weight: 1
+      - path: SpiderLLeg4Platform
+        weight: 1
+      - path: SpiderLLegPlatform
+        weight: 1
+      - path: SpiderRLeg2Platform
+        weight: 1
+      - path: SpiderRLeg3Platform
+        weight: 1
+      - path: SpiderRLeg4Platform
+        weight: 1
+      - path: SpiderRLegPlatform
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

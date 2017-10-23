@@ -1,0 +1,1448 @@
+fileFormatVersion: 2
+guid: b40ecd8c7443cb946b3378489ab7974e
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: hun_mo_001_ty
+    100004: Object002
+    100006: Bone001
+    100008: Bone003
+    100010: Bone005
+    100012: Bone006
+    100014: CATRigHub001
+    100016: CATRigHub002
+    100018: CATRigHub002______001
+    100020: CATRigHub002______001______001
+    100022: CATRigL______1
+    100024: CATRigL______2
+    100026: CATRigL____________11
+    100028: CATRigL____________12
+    100030: CATRigL____________13
+    100032: CATRigL____________21
+    100034: CATRigL____________22
+    100036: CATRigL____________23
+    100038: CATRigL____________31
+    100040: CATRigL____________32
+    100042: CATRigL____________33
+    100044: CATRigL____________41
+    100046: CATRigL____________42
+    100048: CATRigL____________43
+    100050: CATRigL____________51
+    100052: CATRigL____________52
+    100054: CATRigL____________53
+    100056: CATRigL______Collarbone
+    100058: CATRigL______Palm
+    100060: CATRigR______1
+    100062: CATRigR______2
+    100064: CATRigR____________11
+    100066: CATRigR____________12
+    100068: CATRigR____________13
+    100070: CATRigR____________21
+    100072: CATRigR____________22
+    100074: CATRigR____________23
+    100076: CATRigR____________31
+    100078: CATRigR____________32
+    100080: CATRigR____________33
+    100082: CATRigR____________41
+    100084: CATRigR____________42
+    100086: CATRigR____________43
+    100088: CATRigR____________51
+    100090: CATRigR____________52
+    100092: CATRigR____________53
+    100094: CATRigR______Collarbone
+    100096: CATRigR______Palm
+    100098: CATRigSpine1
+    100100: CATRigSpine2
+    100102: Character001
+    100104: "CATRigHub002\u9AA8\u9ABC001"
+    100106: "CATRigHub002\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    100108: "CATRigL\u624B\u81C21"
+    100110: "CATRigL\u624B\u81C22"
+    100112: "CATRigL\u624B\u81C2Collarbone"
+    100114: "CATRigL\u624B\u81C2Palm"
+    100116: "CATRigL\u624B\u81C2\u624B\u630711"
+    100118: "CATRigL\u624B\u81C2\u624B\u630712"
+    100120: "CATRigL\u624B\u81C2\u624B\u630713"
+    100122: "CATRigL\u624B\u81C2\u624B\u630721"
+    100124: "CATRigL\u624B\u81C2\u624B\u630722"
+    100126: "CATRigL\u624B\u81C2\u624B\u630723"
+    100128: "CATRigL\u624B\u81C2\u624B\u630731"
+    100130: "CATRigL\u624B\u81C2\u624B\u630732"
+    100132: "CATRigL\u624B\u81C2\u624B\u630733"
+    100134: "CATRigL\u624B\u81C2\u624B\u630741"
+    100136: "CATRigL\u624B\u81C2\u624B\u630742"
+    100138: "CATRigL\u624B\u81C2\u624B\u630743"
+    100140: "CATRigL\u624B\u81C2\u624B\u630751"
+    100142: "CATRigL\u624B\u81C2\u624B\u630752"
+    100144: "CATRigL\u624B\u81C2\u624B\u630753"
+    100146: "CATRigR\u624B\u81C21"
+    100148: "CATRigR\u624B\u81C22"
+    100150: "CATRigR\u624B\u81C2Collarbone"
+    100152: "CATRigR\u624B\u81C2Palm"
+    100154: "CATRigR\u624B\u81C2\u624B\u630711"
+    100156: "CATRigR\u624B\u81C2\u624B\u630712"
+    100158: "CATRigR\u624B\u81C2\u624B\u630713"
+    100160: "CATRigR\u624B\u81C2\u624B\u630721"
+    100162: "CATRigR\u624B\u81C2\u624B\u630722"
+    100164: "CATRigR\u624B\u81C2\u624B\u630723"
+    100166: "CATRigR\u624B\u81C2\u624B\u630731"
+    100168: "CATRigR\u624B\u81C2\u624B\u630732"
+    100170: "CATRigR\u624B\u81C2\u624B\u630733"
+    100172: "CATRigR\u624B\u81C2\u624B\u630741"
+    100174: "CATRigR\u624B\u81C2\u624B\u630742"
+    100176: "CATRigR\u624B\u81C2\u624B\u630743"
+    100178: "CATRigR\u624B\u81C2\u624B\u630751"
+    100180: "CATRigR\u624B\u81C2\u624B\u630752"
+    100182: "CATRigR\u624B\u81C2\u624B\u630753"
+    400000: //RootNode
+    400002: hun_mo_001_ty
+    400004: Object002
+    400006: Bone001
+    400008: Bone003
+    400010: Bone005
+    400012: Bone006
+    400014: CATRigHub001
+    400016: CATRigHub002
+    400018: CATRigHub002______001
+    400020: CATRigHub002______001______001
+    400022: CATRigL______1
+    400024: CATRigL______2
+    400026: CATRigL____________11
+    400028: CATRigL____________12
+    400030: CATRigL____________13
+    400032: CATRigL____________21
+    400034: CATRigL____________22
+    400036: CATRigL____________23
+    400038: CATRigL____________31
+    400040: CATRigL____________32
+    400042: CATRigL____________33
+    400044: CATRigL____________41
+    400046: CATRigL____________42
+    400048: CATRigL____________43
+    400050: CATRigL____________51
+    400052: CATRigL____________52
+    400054: CATRigL____________53
+    400056: CATRigL______Collarbone
+    400058: CATRigL______Palm
+    400060: CATRigR______1
+    400062: CATRigR______2
+    400064: CATRigR____________11
+    400066: CATRigR____________12
+    400068: CATRigR____________13
+    400070: CATRigR____________21
+    400072: CATRigR____________22
+    400074: CATRigR____________23
+    400076: CATRigR____________31
+    400078: CATRigR____________32
+    400080: CATRigR____________33
+    400082: CATRigR____________41
+    400084: CATRigR____________42
+    400086: CATRigR____________43
+    400088: CATRigR____________51
+    400090: CATRigR____________52
+    400092: CATRigR____________53
+    400094: CATRigR______Collarbone
+    400096: CATRigR______Palm
+    400098: CATRigSpine1
+    400100: CATRigSpine2
+    400102: Character001
+    400104: "CATRigHub002\u9AA8\u9ABC001"
+    400106: "CATRigHub002\u9AA8\u9ABC001\u9AA8\u9ABC001"
+    400108: "CATRigL\u624B\u81C21"
+    400110: "CATRigL\u624B\u81C22"
+    400112: "CATRigL\u624B\u81C2Collarbone"
+    400114: "CATRigL\u624B\u81C2Palm"
+    400116: "CATRigL\u624B\u81C2\u624B\u630711"
+    400118: "CATRigL\u624B\u81C2\u624B\u630712"
+    400120: "CATRigL\u624B\u81C2\u624B\u630713"
+    400122: "CATRigL\u624B\u81C2\u624B\u630721"
+    400124: "CATRigL\u624B\u81C2\u624B\u630722"
+    400126: "CATRigL\u624B\u81C2\u624B\u630723"
+    400128: "CATRigL\u624B\u81C2\u624B\u630731"
+    400130: "CATRigL\u624B\u81C2\u624B\u630732"
+    400132: "CATRigL\u624B\u81C2\u624B\u630733"
+    400134: "CATRigL\u624B\u81C2\u624B\u630741"
+    400136: "CATRigL\u624B\u81C2\u624B\u630742"
+    400138: "CATRigL\u624B\u81C2\u624B\u630743"
+    400140: "CATRigL\u624B\u81C2\u624B\u630751"
+    400142: "CATRigL\u624B\u81C2\u624B\u630752"
+    400144: "CATRigL\u624B\u81C2\u624B\u630753"
+    400146: "CATRigR\u624B\u81C21"
+    400148: "CATRigR\u624B\u81C22"
+    400150: "CATRigR\u624B\u81C2Collarbone"
+    400152: "CATRigR\u624B\u81C2Palm"
+    400154: "CATRigR\u624B\u81C2\u624B\u630711"
+    400156: "CATRigR\u624B\u81C2\u624B\u630712"
+    400158: "CATRigR\u624B\u81C2\u624B\u630713"
+    400160: "CATRigR\u624B\u81C2\u624B\u630721"
+    400162: "CATRigR\u624B\u81C2\u624B\u630722"
+    400164: "CATRigR\u624B\u81C2\u624B\u630723"
+    400166: "CATRigR\u624B\u81C2\u624B\u630731"
+    400168: "CATRigR\u624B\u81C2\u624B\u630732"
+    400170: "CATRigR\u624B\u81C2\u624B\u630733"
+    400172: "CATRigR\u624B\u81C2\u624B\u630741"
+    400174: "CATRigR\u624B\u81C2\u624B\u630742"
+    400176: "CATRigR\u624B\u81C2\u624B\u630743"
+    400178: "CATRigR\u624B\u81C2\u624B\u630751"
+    400180: "CATRigR\u624B\u81C2\u624B\u630752"
+    400182: "CATRigR\u624B\u81C2\u624B\u630753"
+    2300000: hun_mo_001_ty
+    2300002: Object002
+    2300004: CATRigHub001
+    2300006: CATRigHub002
+    2300008: CATRigHub002______001
+    2300010: CATRigHub002______001______001
+    2300012: CATRigL______1
+    2300014: CATRigL______2
+    2300016: CATRigL____________11
+    2300018: CATRigL____________12
+    2300020: CATRigL____________13
+    2300022: CATRigL____________21
+    2300024: CATRigL____________22
+    2300026: CATRigL____________23
+    2300028: CATRigL____________31
+    2300030: CATRigL____________32
+    2300032: CATRigL____________33
+    2300034: CATRigL____________41
+    2300036: CATRigL____________42
+    2300038: CATRigL____________43
+    2300040: CATRigL____________51
+    2300042: CATRigL____________52
+    2300044: CATRigL____________53
+    2300046: CATRigL______Collarbone
+    2300048: CATRigL______Palm
+    2300050: CATRigR______1
+    2300052: CATRigR______2
+    2300054: CATRigR____________11
+    2300056: CATRigR____________12
+    2300058: CATRigR____________13
+    2300060: CATRigR____________21
+    2300062: CATRigR____________22
+    2300064: CATRigR____________23
+    2300066: CATRigR____________31
+    2300068: CATRigR____________32
+    2300070: CATRigR____________33
+    2300072: CATRigR____________41
+    2300074: CATRigR____________42
+    2300076: CATRigR____________43
+    2300078: CATRigR____________51
+    2300080: CATRigR____________52
+    2300082: CATRigR____________53
+    2300084: CATRigR______Collarbone
+    2300086: CATRigR______Palm
+    2300088: CATRigSpine1
+    2300090: CATRigSpine2
+    3300000: hun_mo_001_ty
+    3300002: Object002
+    3300004: CATRigHub001
+    3300006: CATRigHub002
+    3300008: CATRigHub002______001
+    3300010: CATRigHub002______001______001
+    3300012: CATRigL______1
+    3300014: CATRigL______2
+    3300016: CATRigL____________11
+    3300018: CATRigL____________12
+    3300020: CATRigL____________13
+    3300022: CATRigL____________21
+    3300024: CATRigL____________22
+    3300026: CATRigL____________23
+    3300028: CATRigL____________31
+    3300030: CATRigL____________32
+    3300032: CATRigL____________33
+    3300034: CATRigL____________41
+    3300036: CATRigL____________42
+    3300038: CATRigL____________43
+    3300040: CATRigL____________51
+    3300042: CATRigL____________52
+    3300044: CATRigL____________53
+    3300046: CATRigL______Collarbone
+    3300048: CATRigL______Palm
+    3300050: CATRigR______1
+    3300052: CATRigR______2
+    3300054: CATRigR____________11
+    3300056: CATRigR____________12
+    3300058: CATRigR____________13
+    3300060: CATRigR____________21
+    3300062: CATRigR____________22
+    3300064: CATRigR____________23
+    3300066: CATRigR____________31
+    3300068: CATRigR____________32
+    3300070: CATRigR____________33
+    3300072: CATRigR____________41
+    3300074: CATRigR____________42
+    3300076: CATRigR____________43
+    3300078: CATRigR____________51
+    3300080: CATRigR____________52
+    3300082: CATRigR____________53
+    3300084: CATRigR______Collarbone
+    3300086: CATRigR______Palm
+    3300088: CATRigSpine1
+    3300090: CATRigSpine2
+    4300000: hun_mo_001_ty
+    4300002: Object002
+    4300004: CATRigHub001
+    4300006: CATRigSpine1
+    4300008: CATRigSpine2
+    4300010: CATRigHub002
+    4300012: CATRigHub002______001
+    4300014: CATRigHub002______001______001
+    4300016: CATRigL______Collarbone
+    4300018: CATRigL______1
+    4300020: CATRigL______2
+    4300022: CATRigL______Palm
+    4300024: CATRigL____________11
+    4300026: CATRigL____________12
+    4300028: CATRigL____________13
+    4300030: CATRigL____________21
+    4300032: CATRigL____________22
+    4300034: CATRigL____________23
+    4300036: CATRigL____________31
+    4300038: CATRigL____________32
+    4300040: CATRigL____________33
+    4300042: CATRigL____________41
+    4300044: CATRigL____________42
+    4300046: CATRigL____________43
+    4300048: CATRigL____________51
+    4300050: CATRigL____________52
+    4300052: CATRigL____________53
+    4300054: CATRigR______Collarbone
+    4300056: CATRigR______1
+    4300058: CATRigR______2
+    4300060: CATRigR______Palm
+    4300062: CATRigR____________11
+    4300064: CATRigR____________12
+    4300066: CATRigR____________13
+    4300068: CATRigR____________21
+    4300070: CATRigR____________22
+    4300072: CATRigR____________23
+    4300074: CATRigR____________31
+    4300076: CATRigR____________32
+    4300078: CATRigR____________33
+    4300080: CATRigR____________41
+    4300082: CATRigR____________42
+    4300084: CATRigR____________43
+    4300086: CATRigR____________51
+    4300088: CATRigR____________52
+    4300090: CATRigR____________53
+    7400000: walk
+    7400002: free
+    7400004: idle
+    7400006: attack
+    7400008: attack2
+    7400010: skill
+    7400012: skill2
+    7400014: death
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: hun_mo_001_ty
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 2
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/Bone001
+        weight: 1
+      - path: CATRigHub001/Bone003
+        weight: 1
+      - path: CATRigHub001/Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001/Bone006
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12/CATRigL____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22/CATRigL____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32/CATRigL____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42/CATRigL____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52/CATRigL____________53
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12/CATRigR____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22/CATRigR____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32/CATRigR____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42/CATRigR____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52/CATRigR____________53
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: hun_mo_001_ty
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: free
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/Bone001
+        weight: 1
+      - path: CATRigHub001/Bone003
+        weight: 1
+      - path: CATRigHub001/Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001/Bone006
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12/CATRigL____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22/CATRigL____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32/CATRigL____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42/CATRigL____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52/CATRigL____________53
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12/CATRigR____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22/CATRigR____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32/CATRigR____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42/CATRigR____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52/CATRigR____________53
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: hun_mo_001_ty
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/Bone001
+        weight: 1
+      - path: CATRigHub001/Bone003
+        weight: 1
+      - path: CATRigHub001/Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001/Bone006
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12/CATRigL____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22/CATRigL____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32/CATRigL____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42/CATRigL____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52/CATRigL____________53
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12/CATRigR____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22/CATRigR____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32/CATRigR____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42/CATRigR____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52/CATRigR____________53
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: hun_mo_001_ty
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      firstFrame: 260
+      lastFrame: 302
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/Bone001
+        weight: 1
+      - path: CATRigHub001/Bone003
+        weight: 1
+      - path: CATRigHub001/Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001/Bone006
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12/CATRigL____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22/CATRigL____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32/CATRigL____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42/CATRigL____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52/CATRigL____________53
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12/CATRigR____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22/CATRigR____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32/CATRigR____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42/CATRigR____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52/CATRigR____________53
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: hun_mo_001_ty
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack2
+      takeName: Take 001
+      firstFrame: 310
+      lastFrame: 352
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/Bone001
+        weight: 1
+      - path: CATRigHub001/Bone003
+        weight: 1
+      - path: CATRigHub001/Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001/Bone006
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12/CATRigL____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22/CATRigL____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32/CATRigL____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42/CATRigL____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52/CATRigL____________53
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12/CATRigR____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22/CATRigR____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32/CATRigR____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42/CATRigR____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52/CATRigR____________53
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: hun_mo_001_ty
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: skill
+      takeName: Take 001
+      firstFrame: 360
+      lastFrame: 393
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/Bone001
+        weight: 1
+      - path: CATRigHub001/Bone003
+        weight: 1
+      - path: CATRigHub001/Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001/Bone006
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12/CATRigL____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22/CATRigL____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32/CATRigL____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42/CATRigL____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52/CATRigL____________53
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12/CATRigR____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22/CATRigR____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32/CATRigR____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42/CATRigR____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52/CATRigR____________53
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: hun_mo_001_ty
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: skill2
+      takeName: Take 001
+      firstFrame: 410
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/Bone001
+        weight: 1
+      - path: CATRigHub001/Bone003
+        weight: 1
+      - path: CATRigHub001/Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001/Bone006
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12/CATRigL____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22/CATRigL____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32/CATRigL____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42/CATRigL____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52/CATRigL____________53
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12/CATRigR____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22/CATRigR____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32/CATRigR____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42/CATRigR____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52/CATRigR____________53
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: hun_mo_001_ty
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: death
+      takeName: Take 001
+      firstFrame: 460
+      lastFrame: 515
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/Bone001
+        weight: 1
+      - path: CATRigHub001/Bone003
+        weight: 1
+      - path: CATRigHub001/Bone005
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigHub002______001/CATRigHub002______001______001/Bone006
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________11/CATRigL____________12/CATRigL____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________21/CATRigL____________22/CATRigL____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________31/CATRigL____________32/CATRigL____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________41/CATRigL____________42/CATRigL____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigL______Collarbone/CATRigL______1/CATRigL______2/CATRigL______Palm/CATRigL____________51/CATRigL____________52/CATRigL____________53
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________11/CATRigR____________12/CATRigR____________13
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________21/CATRigR____________22/CATRigR____________23
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________31/CATRigR____________32/CATRigR____________33
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________41/CATRigR____________42/CATRigR____________43
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002/CATRigR______Collarbone/CATRigR______1/CATRigR______2/CATRigR______Palm/CATRigR____________51/CATRigR____________52/CATRigR____________53
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: hun_mo_001_ty
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: 87eb74c2ed94223479152fa60cf0b7c6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Bone005
+    100010: Bone006
+    100012: Bone007
+    100014: Bone008
+    100016: Bone009
+    100018: Bone010
+    100020: Bone011
+    100022: Bone012
+    100024: Bone013
+    100026: wang_lin_zhu_ji_di_001
+    100028: wang_lin_zhu_ji_di_0010
+    100030: wang_lin_zhu_ji_di_0011
+    100032: wang_lin_zhu_ji_di_0012
+    100034: wang_lin_zhu_ji_di_0013
+    100036: wang_lin_zhu_ji_di_0014
+    100038: wang_lin_zhu_ji_di_0015
+    100040: wang_lin_zhu_ji_di_002
+    100042: wang_lin_zhu_ji_di_003
+    100044: wang_lin_zhu_ji_di_004
+    100046: wang_lin_zhu_ji_di_005
+    100048: wang_lin_zhu_ji_di_006
+    100050: wang_lin_zhu_ji_di_007
+    100052: wang_lin_zhu_ji_di_008
+    100054: wang_lin_zhu_ji_di_009
+    100056: //RootNode
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Bone005
+    400010: Bone006
+    400012: Bone007
+    400014: Bone008
+    400016: Bone009
+    400018: Bone010
+    400020: Bone011
+    400022: Bone012
+    400024: Bone013
+    400026: wang_lin_zhu_ji_di_001
+    400028: wang_lin_zhu_ji_di_0010
+    400030: wang_lin_zhu_ji_di_0011
+    400032: wang_lin_zhu_ji_di_0012
+    400034: wang_lin_zhu_ji_di_0013
+    400036: wang_lin_zhu_ji_di_0014
+    400038: wang_lin_zhu_ji_di_0015
+    400040: wang_lin_zhu_ji_di_002
+    400042: wang_lin_zhu_ji_di_003
+    400044: wang_lin_zhu_ji_di_004
+    400046: wang_lin_zhu_ji_di_005
+    400048: wang_lin_zhu_ji_di_006
+    400050: wang_lin_zhu_ji_di_007
+    400052: wang_lin_zhu_ji_di_008
+    400054: wang_lin_zhu_ji_di_009
+    400056: //RootNode
+    2300000: wang_lin_zhu_ji_di_0011
+    2300002: wang_lin_zhu_ji_di_0012
+    3300000: wang_lin_zhu_ji_di_0011
+    3300002: wang_lin_zhu_ji_di_0012
+    4300000: wang_lin_zhu_ji_di_0015
+    4300002: wang_lin_zhu_ji_di_0010
+    4300004: wang_lin_zhu_ji_di_0014
+    4300006: wang_lin_zhu_ji_di_005
+    4300008: wang_lin_zhu_ji_di_004
+    4300010: wang_lin_zhu_ji_di_006
+    4300012: wang_lin_zhu_ji_di_007
+    4300014: wang_lin_zhu_ji_di_003
+    4300016: wang_lin_zhu_ji_di_009
+    4300018: wang_lin_zhu_ji_di_002
+    4300020: wang_lin_zhu_ji_di_0011
+    4300022: wang_lin_zhu_ji_di_0012
+    4300024: wang_lin_zhu_ji_di_0013
+    4300026: wang_lin_zhu_ji_di_008
+    4300028: wang_lin_zhu_ji_di_001
+    7400000: free
+    7400002: death
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: wang_lin_zhu_ji_di_001
+    13700002: wang_lin_zhu_ji_di_0010
+    13700004: wang_lin_zhu_ji_di_0013
+    13700006: wang_lin_zhu_ji_di_0014
+    13700008: wang_lin_zhu_ji_di_0015
+    13700010: wang_lin_zhu_ji_di_002
+    13700012: wang_lin_zhu_ji_di_003
+    13700014: wang_lin_zhu_ji_di_004
+    13700016: wang_lin_zhu_ji_di_005
+    13700018: wang_lin_zhu_ji_di_006
+    13700020: wang_lin_zhu_ji_di_007
+    13700022: wang_lin_zhu_ji_di_008
+    13700024: wang_lin_zhu_ji_di_009
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: free
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone002
+        weight: 1
+      - path: Bone003
+        weight: 1
+      - path: Bone004
+        weight: 1
+      - path: Bone005
+        weight: 1
+      - path: Bone006
+        weight: 1
+      - path: Bone007
+        weight: 1
+      - path: Bone008
+        weight: 1
+      - path: Bone009
+        weight: 1
+      - path: Bone010
+        weight: 1
+      - path: Bone011
+        weight: 1
+      - path: Bone012
+        weight: 1
+      - path: Bone013
+        weight: 1
+      - path: wang_lin_zhu_ji_di_001
+        weight: 1
+      - path: wang_lin_zhu_ji_di_002
+        weight: 1
+      - path: wang_lin_zhu_ji_di_003
+        weight: 1
+      - path: wang_lin_zhu_ji_di_004
+        weight: 1
+      - path: wang_lin_zhu_ji_di_005
+        weight: 1
+      - path: wang_lin_zhu_ji_di_006
+        weight: 1
+      - path: wang_lin_zhu_ji_di_007
+        weight: 1
+      - path: wang_lin_zhu_ji_di_008
+        weight: 1
+      - path: wang_lin_zhu_ji_di_009
+        weight: 1
+      - path: wang_lin_zhu_ji_di_0010
+        weight: 1
+      - path: wang_lin_zhu_ji_di_0011
+        weight: 1
+      - path: wang_lin_zhu_ji_di_0012
+        weight: 1
+      - path: wang_lin_zhu_ji_di_0013
+        weight: 1
+      - path: wang_lin_zhu_ji_di_0014
+        weight: 1
+      - path: wang_lin_zhu_ji_di_0015
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death
+      takeName: Take 001
+      firstFrame: 85
+      lastFrame: 142
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone002
+        weight: 1
+      - path: Bone003
+        weight: 1
+      - path: Bone004
+        weight: 1
+      - path: Bone005
+        weight: 1
+      - path: Bone006
+        weight: 1
+      - path: Bone007
+        weight: 1
+      - path: Bone008
+        weight: 1
+      - path: Bone009
+        weight: 1
+      - path: Bone010
+        weight: 1
+      - path: Bone011
+        weight: 1
+      - path: Bone012
+        weight: 1
+      - path: Bone013
+        weight: 1
+      - path: wang_lin_zhu_ji_di_001
+        weight: 1
+      - path: wang_lin_zhu_ji_di_002
+        weight: 1
+      - path: wang_lin_zhu_ji_di_003
+        weight: 1
+      - path: wang_lin_zhu_ji_di_004
+        weight: 1
+      - path: wang_lin_zhu_ji_di_005
+        weight: 1
+      - path: wang_lin_zhu_ji_di_006
+        weight: 1
+      - path: wang_lin_zhu_ji_di_007
+        weight: 1
+      - path: wang_lin_zhu_ji_di_008
+        weight: 1
+      - path: wang_lin_zhu_ji_di_009
+        weight: 1
+      - path: wang_lin_zhu_ji_di_0010
+        weight: 1
+      - path: wang_lin_zhu_ji_di_0011
+        weight: 1
+      - path: wang_lin_zhu_ji_di_0012
+        weight: 1
+      - path: wang_lin_zhu_ji_di_0013
+        weight: 1
+      - path: wang_lin_zhu_ji_di_0014
+        weight: 1
+      - path: wang_lin_zhu_ji_di_0015
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

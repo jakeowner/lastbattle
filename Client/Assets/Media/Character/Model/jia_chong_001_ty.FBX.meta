@@ -1,0 +1,1037 @@
+fileFormatVersion: 2
+guid: df6f3198738311e48b536dfd2d3c56f4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Bone005
+    100010: Bone006
+    100012: Bone007
+    100014: Bone008
+    100016: Crab
+    100018: CrabHub
+    100020: CrabHubBone001
+    100022: CrabHubBone002
+    100024: CrabLLeg21
+    100026: CrabLLeg22
+    100028: CrabLLeg23
+    100030: CrabLLeg2Platform
+    100032: CrabLLeg31
+    100034: CrabLLeg32
+    100036: CrabLLeg33
+    100038: CrabLLeg3Platform
+    100040: CrabLLeg41
+    100042: CrabLLeg42
+    100044: CrabLLeg43
+    100046: CrabLLeg4Platform
+    100048: CrabRLeg1
+    100050: CrabRLeg1 1
+    100052: CrabRLeg1 2
+    100054: CrabRLeg2
+    100056: CrabRLeg2 1
+    100058: CrabRLeg2 2
+    100060: CrabRLeg3
+    100062: CrabRLeg3 1
+    100064: CrabRLeg3 2
+    100066: CrabRLegPlatform
+    100068: CrabRLegPlatform 1
+    100070: CrabRLegPlatform 2
+    100072: //RootNode
+    100074: jia_chong_001_ty
+    100076: Spider
+    100078: jia_chong_001_ty1
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Bone005
+    400010: Bone006
+    400012: Bone007
+    400014: Bone008
+    400016: Crab
+    400018: CrabHub
+    400020: CrabHubBone001
+    400022: CrabHubBone002
+    400024: CrabLLeg21
+    400026: CrabLLeg22
+    400028: CrabLLeg23
+    400030: CrabLLeg2Platform
+    400032: CrabLLeg31
+    400034: CrabLLeg32
+    400036: CrabLLeg33
+    400038: CrabLLeg3Platform
+    400040: CrabLLeg41
+    400042: CrabLLeg42
+    400044: CrabLLeg43
+    400046: CrabLLeg4Platform
+    400048: CrabRLeg1
+    400050: CrabRLeg1 1
+    400052: CrabRLeg1 2
+    400054: CrabRLeg2
+    400056: CrabRLeg2 1
+    400058: CrabRLeg2 2
+    400060: CrabRLeg3
+    400062: CrabRLeg3 1
+    400064: CrabRLeg3 2
+    400066: CrabRLegPlatform
+    400068: CrabRLegPlatform 1
+    400070: CrabRLegPlatform 2
+    400072: //RootNode
+    400074: jia_chong_001_ty
+    400076: Spider
+    400078: jia_chong_001_ty1
+    2300000: CrabHub
+    2300002: CrabHubBone001
+    2300004: CrabHubBone002
+    2300006: CrabLLeg21
+    2300008: CrabLLeg22
+    2300010: CrabLLeg23
+    2300012: CrabLLeg31
+    2300014: CrabLLeg32
+    2300016: CrabLLeg33
+    2300018: CrabLLeg41
+    2300020: CrabLLeg42
+    2300022: CrabLLeg43
+    2300024: CrabRLeg1
+    2300026: CrabRLeg1 1
+    2300028: CrabRLeg1 2
+    2300030: CrabRLeg2
+    2300032: CrabRLeg2 1
+    2300034: CrabRLeg2 2
+    2300036: CrabRLeg3
+    2300038: CrabRLeg3 1
+    2300040: CrabRLeg3 2
+    2300042: jia_chong_001_ty1
+    3300000: CrabHub
+    3300002: CrabHubBone001
+    3300004: CrabHubBone002
+    3300006: CrabLLeg21
+    3300008: CrabLLeg22
+    3300010: CrabLLeg23
+    3300012: CrabLLeg31
+    3300014: CrabLLeg32
+    3300016: CrabLLeg33
+    3300018: CrabLLeg41
+    3300020: CrabLLeg42
+    3300022: CrabLLeg43
+    3300024: CrabRLeg1
+    3300026: CrabRLeg1 1
+    3300028: CrabRLeg1 2
+    3300030: CrabRLeg2
+    3300032: CrabRLeg2 1
+    3300034: CrabRLeg2 2
+    3300036: CrabRLeg3
+    3300038: CrabRLeg3 1
+    3300040: CrabRLeg3 2
+    3300042: jia_chong_001_ty1
+    4300000: jia_chong_001_ty
+    4300002: jia_chong_001_ty1
+    4300004: CrabHub
+    4300006: CrabLLeg21
+    4300008: CrabLLeg22
+    4300010: CrabLLeg23
+    4300012: CrabRLeg1
+    4300014: CrabRLeg2
+    4300016: CrabRLeg3
+    4300018: CrabLLeg31
+    4300020: CrabLLeg32
+    4300022: CrabLLeg33
+    4300024: CrabRLeg1
+    4300026: CrabRLeg2
+    4300028: CrabRLeg3
+    4300030: CrabLLeg41
+    4300032: CrabLLeg42
+    4300034: CrabLLeg43
+    4300036: CrabRLeg1
+    4300038: CrabRLeg2
+    4300040: CrabRLeg3
+    4300042: CrabHubBone001
+    4300044: CrabHubBone002
+    7400000: walk
+    7400002: free
+    7400004: idle
+    7400006: attack
+    7400008: skill2
+    7400010: skill
+    7400012: death
+    7400014: effect
+    7400016: attack2
+    7400018: attack3
+    7400020: hit
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: jia_chong_001_ty
+    13700002: jia_chong_001_ty1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 2
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CrabHub
+        weight: 1
+      - path: CrabHub/CrabHubBone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006/Bone007
+        weight: 1
+      - path: CrabHub/CrabHubBone002
+        weight: 1
+      - path: CrabHub/CrabLLeg21
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22/CrabLLeg23
+        weight: 1
+      - path: CrabHub/CrabLLeg31
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32/CrabLLeg33
+        weight: 1
+      - path: CrabHub/CrabLLeg41
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42/CrabLLeg43
+        weight: 1
+      - path: CrabHub/CrabRLeg1
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2/CrabRLeg3
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 1/CrabRLeg3 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2 2/CrabRLeg3 2
+        weight: 1
+      - path: jia_chong_001_ty
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: free
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 70
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CrabHub
+        weight: 1
+      - path: CrabHub/CrabHubBone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006/Bone007
+        weight: 1
+      - path: CrabHub/CrabHubBone002
+        weight: 1
+      - path: CrabHub/CrabLLeg21
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22/CrabLLeg23
+        weight: 1
+      - path: CrabHub/CrabLLeg31
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32/CrabLLeg33
+        weight: 1
+      - path: CrabHub/CrabLLeg41
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42/CrabLLeg43
+        weight: 1
+      - path: CrabHub/CrabRLeg1
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2/CrabRLeg3
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 1/CrabRLeg3 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2 2/CrabRLeg3 2
+        weight: 1
+      - path: jia_chong_001_ty
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      firstFrame: 137
+      lastFrame: 182
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CrabHub
+        weight: 1
+      - path: CrabHub/CrabHubBone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006/Bone007
+        weight: 1
+      - path: CrabHub/CrabHubBone002
+        weight: 1
+      - path: CrabHub/CrabLLeg21
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22/CrabLLeg23
+        weight: 1
+      - path: CrabHub/CrabLLeg31
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32/CrabLLeg33
+        weight: 1
+      - path: CrabHub/CrabLLeg41
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42/CrabLLeg43
+        weight: 1
+      - path: CrabHub/CrabRLeg1
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2/CrabRLeg3
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 1/CrabRLeg3 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2 2/CrabRLeg3 2
+        weight: 1
+      - path: jia_chong_001_ty
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: skill
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 219
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CrabHub
+        weight: 1
+      - path: CrabHub/CrabHubBone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006/Bone007
+        weight: 1
+      - path: CrabHub/CrabHubBone002
+        weight: 1
+      - path: CrabHub/CrabLLeg21
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22/CrabLLeg23
+        weight: 1
+      - path: CrabHub/CrabLLeg31
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32/CrabLLeg33
+        weight: 1
+      - path: CrabHub/CrabLLeg41
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42/CrabLLeg43
+        weight: 1
+      - path: CrabHub/CrabRLeg1
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2/CrabRLeg3
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 1/CrabRLeg3 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2 2/CrabRLeg3 2
+        weight: 1
+      - path: jia_chong_001_ty
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: skill2
+      takeName: Take 001
+      firstFrame: 240
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CrabHub
+        weight: 1
+      - path: CrabHub/CrabHubBone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006/Bone007
+        weight: 1
+      - path: CrabHub/CrabHubBone002
+        weight: 1
+      - path: CrabHub/CrabLLeg21
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22/CrabLLeg23
+        weight: 1
+      - path: CrabHub/CrabLLeg31
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32/CrabLLeg33
+        weight: 1
+      - path: CrabHub/CrabLLeg41
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42/CrabLLeg43
+        weight: 1
+      - path: CrabHub/CrabRLeg1
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2/CrabRLeg3
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 1/CrabRLeg3 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2 2/CrabRLeg3 2
+        weight: 1
+      - path: jia_chong_001_ty
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death
+      takeName: Take 001
+      firstFrame: 280
+      lastFrame: 312
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CrabHub
+        weight: 1
+      - path: CrabHub/CrabHubBone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006/Bone007
+        weight: 1
+      - path: CrabHub/CrabHubBone002
+        weight: 1
+      - path: CrabHub/CrabLLeg21
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22/CrabLLeg23
+        weight: 1
+      - path: CrabHub/CrabLLeg31
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32/CrabLLeg33
+        weight: 1
+      - path: CrabHub/CrabLLeg41
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42/CrabLLeg43
+        weight: 1
+      - path: CrabHub/CrabRLeg1
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2/CrabRLeg3
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 1/CrabRLeg3 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2 2/CrabRLeg3 2
+        weight: 1
+      - path: jia_chong_001_ty
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack2
+      takeName: Take 001
+      firstFrame: 440
+      lastFrame: 485
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: CrabHub
+        weight: 1
+      - path: CrabHub/CrabHubBone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006/Bone007
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: CrabHub/CrabHubBone002
+        weight: 1
+      - path: CrabHub/CrabLLeg21
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22/CrabLLeg23
+        weight: 1
+      - path: CrabHub/CrabLLeg31
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32/CrabLLeg33
+        weight: 1
+      - path: CrabHub/CrabLLeg41
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42/CrabLLeg43
+        weight: 1
+      - path: CrabHub/CrabRLeg1
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2 1/CrabRLeg3
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 2/CrabRLeg3 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2/CrabRLeg3 1
+        weight: 1
+      - path: CrabLLeg2Platform
+        weight: 1
+      - path: CrabLLeg3Platform
+        weight: 1
+      - path: CrabLLeg4Platform
+        weight: 1
+      - path: CrabRLegPlatform
+        weight: 1
+      - path: CrabRLegPlatform 1
+        weight: 1
+      - path: CrabRLegPlatform 2
+        weight: 1
+      - path: jia_chong_001_ty1
+        weight: 1
+      - path: Spider
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack3
+      takeName: Take 001
+      firstFrame: 500
+      lastFrame: 545
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: CrabHub
+        weight: 1
+      - path: CrabHub/CrabHubBone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006/Bone007
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: CrabHub/CrabHubBone002
+        weight: 1
+      - path: CrabHub/CrabLLeg21
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22/CrabLLeg23
+        weight: 1
+      - path: CrabHub/CrabLLeg31
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32/CrabLLeg33
+        weight: 1
+      - path: CrabHub/CrabLLeg41
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42/CrabLLeg43
+        weight: 1
+      - path: CrabHub/CrabRLeg1
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2 1/CrabRLeg3
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 2/CrabRLeg3 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2/CrabRLeg3 1
+        weight: 1
+      - path: CrabLLeg2Platform
+        weight: 1
+      - path: CrabLLeg3Platform
+        weight: 1
+      - path: CrabLLeg4Platform
+        weight: 1
+      - path: CrabRLegPlatform
+        weight: 1
+      - path: CrabRLegPlatform 1
+        weight: 1
+      - path: CrabRLegPlatform 2
+        weight: 1
+      - path: jia_chong_001_ty1
+        weight: 1
+      - path: Spider
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 340
+      lastFrame: 420
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crab
+        weight: 1
+      - path: CrabHub
+        weight: 1
+      - path: CrabHub/CrabHubBone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002/Bone003
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006/Bone007
+        weight: 1
+      - path: CrabHub/CrabHubBone001/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: CrabHub/CrabHubBone002
+        weight: 1
+      - path: CrabHub/CrabLLeg21
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22
+        weight: 1
+      - path: CrabHub/CrabLLeg21/CrabLLeg22/CrabLLeg23
+        weight: 1
+      - path: CrabHub/CrabLLeg31
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32
+        weight: 1
+      - path: CrabHub/CrabLLeg31/CrabLLeg32/CrabLLeg33
+        weight: 1
+      - path: CrabHub/CrabLLeg41
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42
+        weight: 1
+      - path: CrabHub/CrabLLeg41/CrabLLeg42/CrabLLeg43
+        weight: 1
+      - path: CrabHub/CrabRLeg1
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1/CrabRLeg2 1/CrabRLeg3
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 1/CrabRLeg2 2/CrabRLeg3 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2
+        weight: 1
+      - path: CrabHub/CrabRLeg1 2/CrabRLeg2/CrabRLeg3 1
+        weight: 1
+      - path: CrabLLeg2Platform
+        weight: 1
+      - path: CrabLLeg3Platform
+        weight: 1
+      - path: CrabLLeg4Platform
+        weight: 1
+      - path: CrabRLegPlatform
+        weight: 1
+      - path: CrabRLegPlatform 1
+        weight: 1
+      - path: CrabRLegPlatform 2
+        weight: 1
+      - path: jia_chong_001_ty1
+        weight: 1
+      - path: Spider
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

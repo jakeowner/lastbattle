@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 03e1819e799618247932c5d9d1ff40fd
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: iceBlock
+    100004: iceBlock01
+    100006: iceBlock02
+    100008: iceBlock03
+    100010: iceBlock04
+    100012: iceBlock05
+    100014: iceBlock06
+    100016: iceBlock07
+    100018: iceBlock08
+    100020: iceBlock10
+    100022: iceBlock11
+    100024: iceBlock12
+    400000: //RootNode
+    400002: iceBlock
+    400004: iceBlock01
+    400006: iceBlock02
+    400008: iceBlock03
+    400010: iceBlock04
+    400012: iceBlock05
+    400014: iceBlock06
+    400016: iceBlock07
+    400018: iceBlock08
+    400020: iceBlock10
+    400022: iceBlock11
+    400024: iceBlock12
+    2300000: iceBlock
+    2300002: iceBlock01
+    2300004: iceBlock02
+    2300006: iceBlock03
+    2300008: iceBlock04
+    2300010: iceBlock05
+    2300012: iceBlock06
+    2300014: iceBlock07
+    2300016: iceBlock08
+    2300018: iceBlock10
+    2300020: iceBlock11
+    2300022: iceBlock12
+    2300024: //RootNode
+    3300000: iceBlock
+    3300002: iceBlock01
+    3300004: iceBlock02
+    3300006: iceBlock03
+    3300008: iceBlock04
+    3300010: iceBlock05
+    3300012: iceBlock06
+    3300014: iceBlock07
+    3300016: iceBlock08
+    3300018: iceBlock10
+    3300020: iceBlock11
+    3300022: iceBlock12
+    3300024: //RootNode
+    4300000: iceBlock
+    4300002: iceBlock07
+    4300004: iceBlock10
+    4300006: iceBlock04
+    4300008: iceBlock02
+    4300010: iceBlock06
+    4300012: iceBlock01
+    4300014: iceBlock08
+    4300016: iceBlock05
+    4300018: iceBlock03
+    4300020: iceBlock11
+    4300022: iceBlock12
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
