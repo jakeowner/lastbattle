@@ -102,7 +102,7 @@ namespace BlGame.View
             //talkgame
         #if UNITY_STANDALONE_WIN || UNITY_EDITOR || SKIP_SDK
         #else
-               TalkGame.Instance.UnInitTalkGame();       
+               //TalkGame.Instance.UnInitTalkGame();       
         #endif   
         }
 

@@ -137,10 +137,10 @@ PlayerSettings:
   protectGraphicsMemory: 0
   useHDRDisplay: 0
   applicationIdentifier:
-    Android: 
+    Android: com.cfge.eop
     Standalone: unity.cfge.clotheschange
     Tizen: 
-    iOS: com.cfge.clotheschange
+    iOS: me.chenguanhui.www
     tvOS: 
   buildNumber:
     iOS: 
@@ -167,7 +167,7 @@ PlayerSettings:
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 
   uIPrerenderedIcon: 0
-  uIRequiresPersistentWiFi: 0
+  uIRequiresPersistentWiFi: 1
   uIRequiresFullScreen: 1
   uIStatusBarHidden: 1
   uIExitOnSuspend: 0

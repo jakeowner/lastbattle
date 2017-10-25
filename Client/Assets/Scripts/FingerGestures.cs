@@ -71,8 +71,7 @@ public class FingerGestures : MonoBehaviour
         Mask = LayerMask.NameToLayer("Entity");
         if (Application.platform == RuntimePlatform.Android ||
             Application.platform == RuntimePlatform.IPhonePlayer
-         || Application.platform == RuntimePlatform.WP8Player
-         || Application.platform == RuntimePlatform.BB10Player)
+         || Application.platform == RuntimePlatform.WP8Player)
         {
             useMouse = false;
             if (Application.platform == RuntimePlatform.IPhonePlayer)

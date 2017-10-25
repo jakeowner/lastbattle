@@ -35,8 +35,7 @@ namespace BlGame.GuideDate
             bool endTask = false;
             if (Application.platform == RuntimePlatform.Android
                 || Application.platform == RuntimePlatform.IPhonePlayer
-                || Application.platform == RuntimePlatform.WP8Player
-                || Application.platform == RuntimePlatform.BB10Player)
+                || Application.platform == RuntimePlatform.WP8Player)
             {
                 Touch touch = Input.GetTouch(0);
                 endTask = (touch.phase == TouchPhase.Began);
