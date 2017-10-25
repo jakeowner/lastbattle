@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SoldierWaypoints xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info MapID="1001">
+		<Camp>1</Camp>
+		<HeroBirthCoordinates>7069,5971,10018</HeroBirthCoordinates>
+		<Orientation>1,0,0</Orientation>
+		<RelivePoint>7069,5971,10018</RelivePoint>
+	</info>
+	<info MapID="1001">
+		<Camp>2</Camp>
+		<HeroBirthCoordinates>23263,5971,9949</HeroBirthCoordinates>
+		<Orientation>-1,0,-0.2</Orientation>
+		<RelivePoint>23263,5971,9949</RelivePoint>
+	</info>
+	<info MapID="1002">
+		<Camp>1</Camp>
+		<HeroBirthCoordinates>4559,6006,9863</HeroBirthCoordinates>
+		<Orientation>1,0,-0.1</Orientation>
+		<RelivePoint>4559,6006,9863</RelivePoint>
+	</info>
+	<info MapID="1002">
+		<Camp>2</Camp>
+		<HeroBirthCoordinates>25441,6006,10176</HeroBirthCoordinates>
+		<Orientation>-1,0,-0.1</Orientation>
+		<RelivePoint>25441,6006,10176</RelivePoint>
+	</info>
+	<info MapID="1000">
+		<Camp>1</Camp>
+		<HeroBirthCoordinates>4559,6006,9863</HeroBirthCoordinates>
+		<Orientation>1,0,-0.1</Orientation>
+		<RelivePoint>4559,6006,9863</RelivePoint>
+	</info>
+	<info MapID="1000">
+		<Camp>2</Camp>
+		<HeroBirthCoordinates>25500,6100,10000</HeroBirthCoordinates>
+		<Orientation>-1,0,-0.1</Orientation>
+		<RelivePoint>25500,6100,10000</RelivePoint>
+	</info>
+</SoldierWaypoints>

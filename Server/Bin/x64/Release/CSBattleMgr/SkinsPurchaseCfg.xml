@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SkinsPurchaseCfg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info CommodityID="1">
+		<UnlockHeroID>10001</UnlockHeroID>
+		<HalfPhotoIcon>10</HalfPhotoIcon>
+		<ConsumeType>1,2</ConsumeType>
+		<n32Price>100,100</n32Price>
+		<n32Time>-1</n32Time>
+		<TexturePick>Texture</TexturePick>
+		<DefaultSkin>1</DefaultSkin>
+	</info>
+	<info CommodityID="2">
+		<UnlockHeroID>10002</UnlockHeroID>
+		<HalfPhotoIcon>16</HalfPhotoIcon>
+		<ConsumeType>2</ConsumeType>
+		<n32Price>150</n32Price>
+		<n32Time>24</n32Time>
+		<TexturePick>Texture</TexturePick>
+		<DefaultSkin>1</DefaultSkin>
+	</info>
+	<info CommodityID="3">
+		<UnlockHeroID>10003</UnlockHeroID>
+		<HalfPhotoIcon>12</HalfPhotoIcon>
+		<ConsumeType>1,2</ConsumeType>
+		<n32Price>3000,255</n32Price>
+		<n32Time>-1</n32Time>
+		<TexturePick>Texture</TexturePick>
+		<DefaultSkin>1</DefaultSkin>
+	</info>
+	<info CommodityID="4">
+		<UnlockHeroID>10004</UnlockHeroID>
+		<HalfPhotoIcon>7</HalfPhotoIcon>
+		<ConsumeType>1,2</ConsumeType>
+		<n32Price>6000,465</n32Price>
+		<n32Time>-1</n32Time>
+		<TexturePick>Texture</TexturePick>
+		<DefaultSkin>1</DefaultSkin>
+	</info>
+	<info CommodityID="5">
+		<UnlockHeroID>10005</UnlockHeroID>
+		<HalfPhotoIcon>5</HalfPhotoIcon>
+		<n32Price>0</n32Price>
+		<n32Time>-1</n32Time>
+	</info>
+	<info CommodityID="6">
+		<UnlockHeroID>10006</UnlockHeroID>
+		<HalfPhotoIcon>6</HalfPhotoIcon>
+		<n32Price>0</n32Price>
+		<n32Time>-1</n32Time>
+	</info>
+	<info CommodityID="7">
+		<UnlockHeroID>10007</UnlockHeroID>
+		<HalfPhotoIcon>7</HalfPhotoIcon>
+		<n32Price>0</n32Price>
+		<n32Time>-1</n32Time>
+	</info>
+	<info CommodityID="8">
+		<UnlockHeroID>10008</UnlockHeroID>
+		<HalfPhotoIcon>8</HalfPhotoIcon>
+		<n32Price>6000,465</n32Price>
+		<n32Time>-1</n32Time>
+	</info>
+	<info CommodityID="9">
+		<UnlockHeroID>10009</UnlockHeroID>
+		<HalfPhotoIcon>9</HalfPhotoIcon>
+		<n32Price>0</n32Price>
+		<n32Time>-1</n32Time>
+	</info>
+	<info CommodityID="10">
+		<UnlockHeroID>10010</UnlockHeroID>
+		<HalfPhotoIcon>10</HalfPhotoIcon>
+		<n32Price>0</n32Price>
+		<n32Time>-1</n32Time>
+	</info>
+	<info CommodityID="11">
+		<UnlockHeroID>10011</UnlockHeroID>
+		<HalfPhotoIcon>11</HalfPhotoIcon>
+		<n32Price>0</n32Price>
+		<n32Time>-1</n32Time>
+	</info>
+	<info CommodityID="12">
+		<UnlockHeroID>10012</UnlockHeroID>
+		<HalfPhotoIcon>12</HalfPhotoIcon>
+		<n32Price>0</n32Price>
+		<n32Time>-1</n32Time>
+	</info>
+	<info CommodityID="13">
+		<UnlockHeroID>10013</UnlockHeroID>
+		<HalfPhotoIcon>13</HalfPhotoIcon>
+		<n32Price>0</n32Price>
+		<n32Time>-1</n32Time>
+	</info>
+	<info CommodityID="14">
+		<UnlockHeroID>10014</UnlockHeroID>
+		<HalfPhotoIcon>14</HalfPhotoIcon>
+		<n32Price>0</n32Price>
+		<n32Time>-1</n32Time>
+	</info>
+	<info CommodityID="15">
+		<UnlockHeroID>10015</UnlockHeroID>
+		<HalfPhotoIcon>15</HalfPhotoIcon>
+		<n32Price>0</n32Price>
+		<n32Time>-1</n32Time>
+	</info>
+</SkinsPurchaseCfg>

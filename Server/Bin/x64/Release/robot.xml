@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RobotCfg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<LoginServer>127.0.0.1</LoginServer>		
+	<LoginPort>49996</LoginPort>
+	<BalanceServer>127.0.0.1</BalanceServer>
+	<BalancePort>49998</BalancePort>
+	<DefaultGateServer>127.0.0.1</DefaultGateServer>
+	<DefaultGatePort>40001</DefaultGatePort>
+	<RobotNum>500</RobotNum>
+	<IfSkipToGS>0</IfSkipToGS>
+	<PlatForm>0</PlatForm>
+</RobotCfg>

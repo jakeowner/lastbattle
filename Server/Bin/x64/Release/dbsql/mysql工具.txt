@@ -1,0 +1,2 @@
+1 Éú³Éuuid
+SELECT uuid()
