@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bornhero xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info mapid="1000">
+		<taskid>16001</taskid>
+		<pointform>1</pointform>
+		<ID>10009</ID>
+		<camp>2</camp>
+		<spawnpoint>25500,6100,10000</spawnpoint>
+		<Increasinganger>0</Increasinganger>
+		<time>10000</time>
+	</info>
+	<info mapid="1000">
+		<taskid>16002</taskid>
+		<pointform>2</pointform>
+		<ID>10008</ID>
+		<camp>2</camp>
+		<spawnpoint>25500,6100,10000</spawnpoint>
+		<Increasinganger>1</Increasinganger>
+		<time>15000</time>
+	</info>
+	<info mapid="1000">
+		<taskid>16003</taskid>
+		<pointform>2</pointform>
+		<ID>10007</ID>
+		<camp>2</camp>
+		<spawnpoint>25500,6100,10000</spawnpoint>
+		<Increasinganger>0</Increasinganger>
+		<time>12000</time>
+	</info>
+</bornhero>

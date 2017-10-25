@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SS_BuildBeHurt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info mapid="1000">
+		<id>90018</id>
+		<object>1</object>
+		<objectid>21019</objectid>
+		<typeid>2</typeid>
+	</info>
+	<info mapid="1000">
+		<id>90021</id>
+		<object>2</object>
+		<objectid>21023</objectid>
+		<typeid>3</typeid>
+	</info>
+	<info mapid="1000">
+		<id>90022</id>
+		<object>3</object>
+		<objectid>21021</objectid>
+		<typeid>3</typeid>
+	</info>
+</SS_BuildBeHurt>

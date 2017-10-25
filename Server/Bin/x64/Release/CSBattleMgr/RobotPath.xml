@@ -1,0 +1,1579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SkillCfg_RobotPath xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info un32ID="1">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>4559</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9863</n32NodeZ>
+	</info>
+	<info un32ID="2">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>6296</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10659</n32NodeZ>
+	</info>
+	<info un32ID="3">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>7026</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="4">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>10658</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="5">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>13384</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="6">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>16868</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="7">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>19863</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="8">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>22780</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10100</n32NodeZ>
+	</info>
+	<info un32ID="9">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>25441</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10176</n32NodeZ>
+	</info>
+	<info un32ID="10">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>23709</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9206</n32NodeZ>
+	</info>
+	<info un32ID="11">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>22780</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10100</n32NodeZ>
+	</info>
+	<info un32ID="12">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>19863</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="13">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>16868</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="14">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>13384</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="15">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>10658</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="16">
+		<n32MapID>1000</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>7026</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="17">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>4559</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9863</n32NodeZ>
+	</info>
+	<info un32ID="18">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>6296</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10659</n32NodeZ>
+	</info>
+	<info un32ID="19">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>7026</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="20">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>10658</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="21">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>13384</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="22">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>16868</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="23">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>19863</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="24">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>22780</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10100</n32NodeZ>
+	</info>
+	<info un32ID="25">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>25441</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10176</n32NodeZ>
+	</info>
+	<info un32ID="26">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>23709</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9206</n32NodeZ>
+	</info>
+	<info un32ID="27">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>22780</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10100</n32NodeZ>
+	</info>
+	<info un32ID="28">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>19863</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="29">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>16868</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="30">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>13384</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="31">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>10658</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="32">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>7026</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10083</n32NodeZ>
+	</info>
+	<info un32ID="33">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>4500</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10220</n32NodeZ>
+	</info>
+	<info un32ID="34">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>6261</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10726</n32NodeZ>
+	</info>
+	<info un32ID="35">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>6856</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9947</n32NodeZ>
+	</info>
+	<info un32ID="36">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>8545</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10420</n32NodeZ>
+	</info>
+	<info un32ID="37">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>9843</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>12551</n32NodeZ>
+	</info>
+	<info un32ID="38">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>11050</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>14818</n32NodeZ>
+	</info>
+	<info un32ID="39">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>12134</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>12475</n32NodeZ>
+	</info>
+	<info un32ID="40">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>12291</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9963</n32NodeZ>
+	</info>
+	<info un32ID="41">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>15112</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9963</n32NodeZ>
+	</info>
+	<info un32ID="42">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>18265</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9697</n32NodeZ>
+	</info>
+	<info un32ID="43">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>21591</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9697</n32NodeZ>
+	</info>
+	<info un32ID="44">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>23168</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9907</n32NodeZ>
+	</info>
+	<info un32ID="45">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>25481</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9771</n32NodeZ>
+	</info>
+	<info un32ID="46">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>23591</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9465</n32NodeZ>
+	</info>
+	<info un32ID="47">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>21912</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9890</n32NodeZ>
+	</info>
+	<info un32ID="48">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>20218</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9773</n32NodeZ>
+	</info>
+	<info un32ID="49">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>19965</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>7354</n32NodeZ>
+	</info>
+	<info un32ID="50">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>18535</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>4912</n32NodeZ>
+	</info>
+	<info un32ID="51">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>17484</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>7070</n32NodeZ>
+	</info>
+	<info un32ID="52">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>18084</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10046</n32NodeZ>
+	</info>
+	<info un32ID="53">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>15006</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10046</n32NodeZ>
+	</info>
+	<info un32ID="54">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>12057</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9780</n32NodeZ>
+	</info>
+	<info un32ID="55">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>8905</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9780</n32NodeZ>
+	</info>
+	<info un32ID="56">
+		<n32MapID>1002</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>6689</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9780</n32NodeZ>
+	</info>
+	<info un32ID="57">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>7042</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9958</n32NodeZ>
+	</info>
+	<info un32ID="58">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>8849</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9414</n32NodeZ>
+	</info>
+	<info un32ID="59">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>8792</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>8265</n32NodeZ>
+	</info>
+	<info un32ID="60">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>8720</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>7275</n32NodeZ>
+	</info>
+	<info un32ID="61">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>10007</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6678</n32NodeZ>
+	</info>
+	<info un32ID="62">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>11294</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6678</n32NodeZ>
+	</info>
+	<info un32ID="63">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>12952</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6678</n32NodeZ>
+	</info>
+	<info un32ID="64">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>14926</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6687</n32NodeZ>
+	</info>
+	<info un32ID="65">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>16620</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6687</n32NodeZ>
+	</info>
+	<info un32ID="66">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>18098</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6716</n32NodeZ>
+	</info>
+	<info un32ID="67">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>19957</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6749</n32NodeZ>
+	</info>
+	<info un32ID="68">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>21258</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>7142</n32NodeZ>
+	</info>
+	<info un32ID="69">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>21232</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>8209</n32NodeZ>
+	</info>
+	<info un32ID="70">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>21182</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9299</n32NodeZ>
+	</info>
+	<info un32ID="71">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>23270</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9993</n32NodeZ>
+	</info>
+	<info un32ID="72">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>21182</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9299</n32NodeZ>
+	</info>
+	<info un32ID="73">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>21323</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>8209</n32NodeZ>
+	</info>
+	<info un32ID="74">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>21258</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>7142</n32NodeZ>
+	</info>
+	<info un32ID="75">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>19957</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6749</n32NodeZ>
+	</info>
+	<info un32ID="76">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>18098</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6716</n32NodeZ>
+	</info>
+	<info un32ID="77">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>16620</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6687</n32NodeZ>
+	</info>
+	<info un32ID="78">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>14926</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6687</n32NodeZ>
+	</info>
+	<info un32ID="79">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>12952</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6678</n32NodeZ>
+	</info>
+	<info un32ID="80">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>11294</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6678</n32NodeZ>
+	</info>
+	<info un32ID="81">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>10007</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6678</n32NodeZ>
+	</info>
+	<info un32ID="82">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>8849</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>7275</n32NodeZ>
+	</info>
+	<info un32ID="83">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>8792</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>8265</n32NodeZ>
+	</info>
+	<info un32ID="84">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>1</n32NodeID>
+		<n32NodeX>8720</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9414</n32NodeZ>
+	</info>
+	<info un32ID="85">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>7042</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9958</n32NodeZ>
+	</info>
+	<info un32ID="86">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>9114</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10801</n32NodeZ>
+	</info>
+	<info un32ID="87">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>8627</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>12530</n32NodeZ>
+	</info>
+	<info un32ID="88">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>10938</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13214</n32NodeZ>
+	</info>
+	<info un32ID="89">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>13440</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13214</n32NodeZ>
+	</info>
+	<info un32ID="90">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>15669</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13214</n32NodeZ>
+	</info>
+	<info un32ID="91">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>17678</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13214</n32NodeZ>
+	</info>
+	<info un32ID="92">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>20166</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13005</n32NodeZ>
+	</info>
+	<info un32ID="93">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>21567</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>12583</n32NodeZ>
+	</info>
+	<info un32ID="94">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>21037</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10650</n32NodeZ>
+	</info>
+	<info un32ID="95">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>22656</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9993</n32NodeZ>
+	</info>
+	<info un32ID="96">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>21037</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10650</n32NodeZ>
+	</info>
+	<info un32ID="97">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>21567</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>12583</n32NodeZ>
+	</info>
+	<info un32ID="98">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>20166</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13005</n32NodeZ>
+	</info>
+	<info un32ID="99">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>17678</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13214</n32NodeZ>
+	</info>
+	<info un32ID="100">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>15669</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13214</n32NodeZ>
+	</info>
+	<info un32ID="101">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>13440</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13214</n32NodeZ>
+	</info>
+	<info un32ID="102">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>10938</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13214</n32NodeZ>
+	</info>
+	<info un32ID="103">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>8627</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>12530</n32NodeZ>
+	</info>
+	<info un32ID="104">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>2</n32NodeID>
+		<n32NodeX>9114</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10801</n32NodeZ>
+	</info>
+	<info un32ID="105">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>7042</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9958</n32NodeZ>
+	</info>
+	<info un32ID="106">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>9114</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10801</n32NodeZ>
+	</info>
+	<info un32ID="107">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>8627</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>12530</n32NodeZ>
+	</info>
+	<info un32ID="108">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>12541</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13260</n32NodeZ>
+	</info>
+	<info un32ID="109">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>13494</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>11504</n32NodeZ>
+	</info>
+	<info un32ID="112">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>12997</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10118</n32NodeZ>
+	</info>
+	<info un32ID="113">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>15209</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10118</n32NodeZ>
+	</info>
+	<info un32ID="114">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>17277</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10016</n32NodeZ>
+	</info>
+	<info un32ID="115">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>17068</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>8247</n32NodeZ>
+	</info>
+	<info un32ID="116">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>15211</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6734</n32NodeZ>
+	</info>
+	<info un32ID="117">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>18705</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6734</n32NodeZ>
+	</info>
+	<info un32ID="118">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>21469</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>7258</n32NodeZ>
+	</info>
+	<info un32ID="119">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>21190</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9330</n32NodeZ>
+	</info>
+	<info un32ID="120">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>23236</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10014</n32NodeZ>
+	</info>
+	<info un32ID="121">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>21190</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9330</n32NodeZ>
+	</info>
+	<info un32ID="122">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>21469</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>7258</n32NodeZ>
+	</info>
+	<info un32ID="123">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>18705</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6734</n32NodeZ>
+	</info>
+	<info un32ID="124">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>15211</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6734</n32NodeZ>
+	</info>
+	<info un32ID="125">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>17068</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>8247</n32NodeZ>
+	</info>
+	<info un32ID="126">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>17277</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10016</n32NodeZ>
+	</info>
+	<info un32ID="127">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>15209</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10118</n32NodeZ>
+	</info>
+	<info un32ID="128">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>12997</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10118</n32NodeZ>
+	</info>
+	<info un32ID="129">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>13494</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>11504</n32NodeZ>
+	</info>
+	<info un32ID="130">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>15355</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13200</n32NodeZ>
+	</info>
+	<info un32ID="131">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>12541</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13260</n32NodeZ>
+	</info>
+	<info un32ID="132">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>8627</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>12530</n32NodeZ>
+	</info>
+	<info un32ID="133">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>3</n32NodeID>
+		<n32NodeX>9114</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10801</n32NodeZ>
+	</info>
+	<info un32ID="134">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>7042</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9958</n32NodeZ>
+	</info>
+	<info un32ID="135">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>8849</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9414</n32NodeZ>
+	</info>
+	<info un32ID="136">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>8720</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>7275</n32NodeZ>
+	</info>
+	<info un32ID="137">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>11480</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6619</n32NodeZ>
+	</info>
+	<info un32ID="138">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>14144</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6806</n32NodeZ>
+	</info>
+	<info un32ID="139">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>12607</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>8019</n32NodeZ>
+	</info>
+	<info un32ID="140">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>12607</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9973</n32NodeZ>
+	</info>
+	<info un32ID="141">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>14966</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10067</n32NodeZ>
+	</info>
+	<info un32ID="142">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>17359</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10067</n32NodeZ>
+	</info>
+	<info un32ID="143">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>17660</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>11943</n32NodeZ>
+	</info>
+	<info un32ID="144">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>15867</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13220</n32NodeZ>
+	</info>
+	<info un32ID="145">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>18507</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13220</n32NodeZ>
+	</info>
+	<info un32ID="146">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>21488</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>12802</n32NodeZ>
+	</info>
+	<info un32ID="147">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>21184</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10762</n32NodeZ>
+	</info>
+	<info un32ID="148">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>23236</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10014</n32NodeZ>
+	</info>
+	<info un32ID="149">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>21184</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10762</n32NodeZ>
+	</info>
+	<info un32ID="150">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>21488</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>12802</n32NodeZ>
+	</info>
+	<info un32ID="151">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>18507</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13220</n32NodeZ>
+	</info>
+	<info un32ID="152">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>15867</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13220</n32NodeZ>
+	</info>
+	<info un32ID="153">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>17660</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>11943</n32NodeZ>
+	</info>
+	<info un32ID="154">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>17359</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10067</n32NodeZ>
+	</info>
+	<info un32ID="155">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>14966</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10067</n32NodeZ>
+	</info>
+	<info un32ID="156">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>12607</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9973</n32NodeZ>
+	</info>
+	<info un32ID="157">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>12607</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>8019</n32NodeZ>
+	</info>
+	<info un32ID="158">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>14144</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6806</n32NodeZ>
+	</info>
+	<info un32ID="159">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>11480</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6619</n32NodeZ>
+	</info>
+	<info un32ID="160">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>8720</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>7275</n32NodeZ>
+	</info>
+	<info un32ID="161">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>4</n32NodeID>
+		<n32NodeX>8849</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9414</n32NodeZ>
+	</info>
+	<info un32ID="162">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>7042</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9958</n32NodeZ>
+	</info>
+	<info un32ID="163">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>8566</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10459</n32NodeZ>
+	</info>
+	<info un32ID="164">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>8493</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>12251</n32NodeZ>
+	</info>
+	<info un32ID="165">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>11097</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13344</n32NodeZ>
+	</info>
+	<info un32ID="166">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>13472</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13594</n32NodeZ>
+	</info>
+	<info un32ID="167">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>15402</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13605</n32NodeZ>
+	</info>
+	<info un32ID="168">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>17816</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13299</n32NodeZ>
+	</info>
+	<info un32ID="169">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>19936</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13174</n32NodeZ>
+	</info>
+	<info un32ID="170">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>21626</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>12568</n32NodeZ>
+	</info>
+	<info un32ID="171">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>21878</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10474</n32NodeZ>
+	</info>
+	<info un32ID="172">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>21184</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10762</n32NodeZ>
+	</info>
+	<info un32ID="173">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>21878</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10474</n32NodeZ>
+	</info>
+	<info un32ID="174">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>21626</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>12568</n32NodeZ>
+	</info>
+	<info un32ID="175">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>19936</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13174</n32NodeZ>
+	</info>
+	<info un32ID="176">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>17816</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13299</n32NodeZ>
+	</info>
+	<info un32ID="177">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>15402</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13605</n32NodeZ>
+	</info>
+	<info un32ID="178">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>13472</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13594</n32NodeZ>
+	</info>
+	<info un32ID="179">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>11097</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>13344</n32NodeZ>
+	</info>
+	<info un32ID="180">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>8493</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>12251</n32NodeZ>
+	</info>
+	<info un32ID="181">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>5</n32NodeID>
+		<n32NodeX>8566</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10459</n32NodeZ>
+	</info>
+	<info un32ID="182">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>7042</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9958</n32NodeZ>
+	</info>
+	<info un32ID="183">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>8891</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9336</n32NodeZ>
+	</info>
+	<info un32ID="184">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>8632</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>7176</n32NodeZ>
+	</info>
+	<info un32ID="185">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>10686</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6423</n32NodeZ>
+	</info>
+	<info un32ID="186">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>13504</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6423</n32NodeZ>
+	</info>
+	<info un32ID="187">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>16394</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6829</n32NodeZ>
+	</info>
+	<info un32ID="188">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>19021</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6519</n32NodeZ>
+	</info>
+	<info un32ID="189">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>21254</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>7092</n32NodeZ>
+	</info>
+	<info un32ID="190">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>1</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>21318</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9313</n32NodeZ>
+	</info>
+	<info un32ID="191">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>21184</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>10762</n32NodeZ>
+	</info>
+	<info un32ID="192">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>21318</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9313</n32NodeZ>
+	</info>
+	<info un32ID="193">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>21254</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>7092</n32NodeZ>
+	</info>
+	<info un32ID="194">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>19021</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6519</n32NodeZ>
+	</info>
+	<info un32ID="195">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>16394</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6829</n32NodeZ>
+	</info>
+	<info un32ID="196">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>13504</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6423</n32NodeZ>
+	</info>
+	<info un32ID="197">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>10686</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>6423</n32NodeZ>
+	</info>
+	<info un32ID="198">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>8632</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>7176</n32NodeZ>
+	</info>
+	<info un32ID="199">
+		<n32MapID>1001</n32MapID>
+		<n32CampID>2</n32CampID>
+		<n32NodeID>6</n32NodeID>
+		<n32NodeX>8891</n32NodeX>
+		<n32NodeY>6006</n32NodeY>
+		<n32NodeZ>9336</n32NodeZ>
+	</info>
+</SkillCfg_RobotPath>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GSCfg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<IP>127.0.0.1</IP>
+	<Port>10002</Port>
+	<MsgMaxSize>10240000</MsgMaxSize>
+	<GSID>30001</GSID>
+	<PWD>123456</PWD>
+	<ListenIP>127.0.0.1</ListenIP>
+	<ListenPort>40001</ListenPort>
+	<MaxGCNum>10000</MaxGCNum>
+	<BSIP>127.0.0.1</BSIP>
+	<BSPort>49999</BSPort>
+	<IfSkipBS>0</IfSkipBS>
+</GSCfg>
