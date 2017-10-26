@@ -4,7 +4,7 @@
 		<ip>127.0.0.1</ip>
 		<Port>3306</Port>
 		<user>root</user>
-		<pwd>123321</pwd>
+		<pwd></pwd>
 		<dbname>FBAll_LogDB_1</dbname> 
 	</DB>
 	<port>1234</port>

@@ -803,7 +803,8 @@ INT32	CCSCfgMgr::LoadSDBCfg()
 			strcpy(cfg.aszDBUserName , user->GetText());
 
 			TiXmlElement *pwd = father->FirstChildElement("pwd")->ToElement();
-			strcpy(cfg.aszDBUserPwd , pwd->GetText());
+			if (NULL != pwd->GetText())
+				strcpy(cfg.aszDBUserPwd , pwd->GetText());
 
 			TiXmlElement *dbname = father->FirstChildElement("dbname")->ToElement();
 			strcpy(cfg.aszDBName , dbname->GetText()); 

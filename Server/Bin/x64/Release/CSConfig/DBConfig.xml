@@ -5,7 +5,7 @@
 		<ip>127.0.0.1</ip>
 		<Port>3306</Port>
 		<user>root</user>
-		<pwd>123321</pwd>
+		<pwd></pwd>
 		<dbname>FBAll_GameDB_1</dbname> 
 	</DB> 
 	 <DB>
@@ -13,7 +13,7 @@
 		<ip>127.0.0.1</ip>
 		<Port>3306</Port>
 		<user>root</user>
-		<pwd>123321</pwd>
+		<pwd></pwd>
 		<dbname>FBAll_AccountDB</dbname> 
 	</DB> 
 </DBCfg>

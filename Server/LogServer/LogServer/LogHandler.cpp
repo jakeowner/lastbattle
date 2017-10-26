@@ -89,7 +89,8 @@ void CLogHandler::SetDBData(TiXmlElement * father, SDBCfg &sDBCfg){
 	strcpy(sDBCfg.aszDBUserName , user->GetText());
 
 	TiXmlElement *pwd = father->FirstChildElement("pwd")->ToElement();
-	strcpy(sDBCfg.aszDBUserPwd , pwd->GetText());
+	if (NULL != pwd->GetText())
+		strcpy(sDBCfg.aszDBUserPwd , pwd->GetText());
 
 	TiXmlElement *dbname = father->FirstChildElement("dbname")->ToElement();
 	strcpy(sDBCfg.aszDBName , dbname->GetText());
